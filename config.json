@@ -53,6 +53,24 @@
       "url": "https://krebsonsecurity.com/feed/",
       "color": 8359053,
       "emoji": "\ud83d\udd75\ufe0f"
+    },
+    {
+      "name": "Dark Reading",
+      "url": "https://www.darkreading.com/rss.xml",
+      "color": 1752220,
+      "emoji": "\ud83c\udf11"
+    },
+    {
+      "name": "Schneier on Security",
+      "url": "https://www.schneier.com/feed/atom/",
+      "color": 12745742,
+      "emoji": "\ud83e\udde0"
+    },
+    {
+      "name": "Ars Technica Security",
+      "url": "https://arstechnica.com/tag/security/feed/",
+      "color": 16737792,
+      "emoji": "\ud83d\udee1\ufe0f"
     }
   ],
   "max_state_entries": 500,
