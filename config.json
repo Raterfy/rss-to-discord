@@ -29,6 +29,36 @@
       "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "color": 15105570,
       "emoji": "\ud83e\udd16"
+    },
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "color": 15844367,
+      "emoji": "\ud83d\udca5"
+    },
+    {
+      "name": "CERT-FR Alertes",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+      "color": 16711680,
+      "emoji": "\ud83c\uddeb\ud83c\uddf7"
+    },
+    {
+      "name": "CERT-FR Avis",
+      "url": "https://www.cert.ssi.gouv.fr/avis/feed/",
+      "color": 16750848,
+      "emoji": "\ud83d\udcdd"
+    },
+    {
+      "name": "Next.ink",
+      "url": "https://next.ink/feed/",
+      "color": 2067276,
+      "emoji": "\ud83d\udcf0"
+    },
+    {
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/feed/",
+      "color": 8359053,
+      "emoji": "\ud83d\udd75\ufe0f"
     }
   ],
   "max_state_entries": 500,
