@@ -11,6 +11,13 @@ Automated cyber/tech monitoring on Discord via GitHub Actions. Free, serverless,
 | [The Hacker News](https://thehackernews.com/) | International cybersecurity |
 | [EFF](https://www.eff.org/) | Digital rights |
 | [MIT Tech Review - AI](https://www.technologyreview.com/) | Artificial intelligence |
+| [BleepingComputer](https://www.bleepingcomputer.com/) | Malware, vulnerabilities, ransomware |
+| [CERT-FR Alertes](https://www.cert.ssi.gouv.fr/) | ANSSI critical alerts (France) |
+| [Next.ink](https://next.ink/) | French tech/digital law news |
+| [Krebs on Security](https://krebsonsecurity.com/) | Cyber investigations |
+| [Dark Reading](https://www.darkreading.com/) | Enterprise cybersecurity |
+| [Schneier on Security](https://www.schneier.com/) | Crypto/security analysis |
+| [Ars Technica Security](https://arstechnica.com/tag/security/) | In-depth security articles |
 
 ## Setup
 
@@ -55,7 +62,17 @@ git push -u origin master
 3. Click **Run workflow** > **Run workflow**
 4. Check your Discord channel
 
-After that, the cron runs **automatically every 15 minutes**, 24/7.
+After that, the cron runs **automatically every hour**, 24/7.
+
+## Configuration
+
+Key settings in `config.json`:
+
+| Parameter | Description | Default |
+|-----------|-------------|---------|
+| `max_article_age_hours` | Only post articles newer than this | `24` |
+| `max_state_entries` | Max article IDs to remember | `500` |
+| `max_description_length` | Truncate descriptions at this length | `400` |
 
 ## Local testing
 
@@ -99,8 +116,8 @@ Colors are in decimal ([converter](https://www.mathsisfun.com/hexadecimal-decima
 
 ```
 rss-to-discord/
-├── .github/workflows/rss-check.yml   # GitHub Actions cron (*/15 min)
-├── config.json                        # RSS feeds list
+├── .github/workflows/rss-check.yml   # GitHub Actions cron (every hour)
+├── config.json                        # RSS feeds list + settings
 ├── rss_to_discord.py                  # Main script
 ├── requirements.txt                   # Python dependencies
 ├── state.json                         # Auto-generated (posted articles history)
@@ -113,10 +130,13 @@ rss-to-discord/
 No. The script writes a `last_run` timestamp to `state.json` on every execution, which generates an automatic commit and keeps the repo active.
 
 **Does it cost anything?**
-No. GitHub Actions is free for public repos (unlimited) and private repos (2000 min/month, this bot uses ~1440).
+No. GitHub Actions is free for public repos (unlimited) and private repos (2000 min/month, this bot uses ~720).
 
 **Can an article be posted twice?**
 No. The script stores the IDs of already posted articles in `state.json`.
+
+**Are old articles posted?**
+No. Only articles from the last 24 hours are posted (`max_article_age_hours` in config).
 
 **Discord rate limit?**
 The script waits 2 seconds between each message and handles the 429 (rate limit) response automatically.
