@@ -33,5 +33,5 @@
   ],
   "max_state_entries": 500,
   "max_description_length": 400,
-  "first_run_hours": 24
+  "first_run_hours": 72
 }
