@@ -43,12 +43,6 @@
       "emoji": "\ud83c\uddeb\ud83c\uddf7"
     },
     {
-      "name": "CERT-FR Avis",
-      "url": "https://www.cert.ssi.gouv.fr/avis/feed/",
-      "color": 16750848,
-      "emoji": "\ud83d\udcdd"
-    },
-    {
       "name": "Next.ink",
       "url": "https://next.ink/feed/",
       "color": 2067276,
