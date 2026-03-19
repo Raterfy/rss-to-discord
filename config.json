@@ -75,5 +75,5 @@
   ],
   "max_state_entries": 500,
   "max_description_length": 400,
-  "first_run_hours": 72
+  "max_article_age_hours": 24
 }

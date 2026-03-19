@@ -32,7 +32,7 @@ def load_state():
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
-    return {"posted": [], "first_run_done": False}
+    return {"posted": []}
 
 
 def save_state(state, max_entries):
@@ -147,8 +147,8 @@ def process_feed(feed_config, state, webhook_url, config, dry_run=False):
         return 0
 
     now = datetime.now(timezone.utc)
-    first_run_cutoff = now - timedelta(hours=config.get("first_run_hours", 24))
-    is_first_run = not state.get("first_run_done", False)
+    max_age_hours = config.get("max_article_age_hours", 24)
+    age_cutoff = now - timedelta(hours=max_age_hours)
     new_count = 0
 
     # Traite les entries en ordre chronologique (plus ancien d'abord)
@@ -161,12 +161,11 @@ def process_feed(feed_config, state, webhook_url, config, dry_run=False):
         if entry_id in state["posted"]:
             continue
 
-        # Premier run : ne poste que les articles recents
-        if is_first_run:
-            pub_date = get_entry_date(entry)
-            if pub_date and pub_date < first_run_cutoff:
-                state["posted"].append(entry_id)
-                continue
+        # Ignore les articles plus vieux que max_article_age_hours
+        pub_date = get_entry_date(entry)
+        if pub_date and pub_date < age_cutoff:
+            state["posted"].append(entry_id)
+            continue
 
         # Construit l'embed
         embed = build_embed(entry, feed_config, config.get("max_description_length", 400))
@@ -211,7 +210,6 @@ def main():
         new = process_feed(feed_config, state, webhook_url, config, dry_run)
         total_new += new
 
-    state["first_run_done"] = True
     save_state(state, config.get("max_state_entries", 500))
 
     print(f"\n{'=' * 50}")
