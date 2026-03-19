@@ -1,0 +1,37 @@
+{
+  "feeds": [
+    {
+      "name": "Bonjour la Fuite",
+      "url": "https://bonjourlafuite.eu.org/feed.xml",
+      "color": 15158332,
+      "emoji": "\ud83d\udea8"
+    },
+    {
+      "name": "Korben",
+      "url": "https://korben.info/feed",
+      "color": 3447003,
+      "emoji": "\ud83d\udcbb"
+    },
+    {
+      "name": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "color": 3066993,
+      "emoji": "\ud83d\udd12"
+    },
+    {
+      "name": "EFF",
+      "url": "https://www.eff.org/rss/updates.xml",
+      "color": 10181046,
+      "emoji": "\u2696\ufe0f"
+    },
+    {
+      "name": "MIT Tech Review - AI",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "color": 15105570,
+      "emoji": "\ud83e\udd16"
+    }
+  ],
+  "max_state_entries": 500,
+  "max_description_length": 400,
+  "first_run_hours": 24
+}
