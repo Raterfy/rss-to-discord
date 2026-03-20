@@ -71,17 +71,21 @@ After that, the cron runs **automatically every hour**, 24/7.
 
 ## AI Summaries (optional)
 
-Feeds with `"summarize": true` in `config.json` get an AI-generated teaser via **Groq** (free). This creates punchy, attention-grabbing summaries instead of raw descriptions.
+Feeds with `"summarize": true` in `config.json` get an AI-generated summary appended below the original article description. This is **completely optional** - the bot works perfectly fine without it.
 
-### Setup Groq
+Without Groq: articles are posted with their original description only.
+With Groq: a short AI summary is added below the description for feeds that have `"summarize": true`.
 
-1. Create a free account at **https://console.groq.com**
+### Setup Groq (free, 2 minutes)
+
+1. Create a free account at **https://console.groq.com** (no credit card required)
 2. Go to **API Keys** > **Create API Key**
 3. Add it as a GitHub Secret: **Settings** > **Secrets** > **New repository secret**
    - Name: `GROQ_API_KEY`
    - Value: your `gsk_...` key
+4. In `config.json`, add `"summarize": true` to feeds you want summarized
 
-That's it. Feeds with `"summarize": true` will now include AI teasers. Feeds without this option are unaffected.
+If you don't add a `GROQ_API_KEY` secret, the bot simply skips summaries and posts articles normally. No errors, no impact.
 
 ### Per-feed config
 
@@ -94,6 +98,8 @@ That's it. Feeds with `"summarize": true` will now include AI teasers. Feeds wit
   "summarize": true
 }
 ```
+
+The `"summarize"` field is optional. If omitted, it defaults to `false`.
 
 Model used: **Llama 3.3 70B** via Groq (free tier: 14,400 requests/day).
 

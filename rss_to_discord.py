@@ -154,13 +154,15 @@ def build_embed(entry, feed_config, max_desc_len, groq_api_key=None):
     if should_summarize and groq_api_key:
         ai_summary = summarize_article(title, clean_desc, groq_api_key)
 
-    # Construit la description finale
+    # Tronque la description originale
+    if len(clean_desc) > max_desc_len:
+        clean_desc = clean_desc[:max_desc_len].rsplit("\n", 1)[0] + "\n..."
+
+    # Ajoute le resume IA en dessous si disponible
     if ai_summary:
-        description = f"**\U0001f4a1 Teaser :**\n{ai_summary}"
+        description = f"{clean_desc}\n\n**\U0001f916 Resume IA :**\n{ai_summary}"
     else:
         description = clean_desc
-        if len(description) > max_desc_len:
-            description = description[:max_desc_len].rsplit("\n", 1)[0] + "\n..."
 
     embed = {
         "title": f"{feed_config['emoji']} {title}"[:256],
