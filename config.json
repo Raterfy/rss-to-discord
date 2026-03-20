@@ -70,37 +70,43 @@
       "name": "PortSwigger Research",
       "url": "https://portswigger.net/research/rss",
       "color": 16744448,
-      "emoji": "\ud83d\udd2c"
+      "emoji": "\ud83d\udd2c",
+      "summarize": true
     },
     {
       "name": "Intigriti Blog",
       "url": "https://blog.intigriti.com/feed/",
       "color": 1146986,
-      "emoji": "\ud83d\udc1b"
+      "emoji": "\ud83d\udc1b",
+      "summarize": true
     },
     {
       "name": "InfoSec Write-ups",
       "url": "https://infosecwriteups.com/feed",
       "color": 16776960,
-      "emoji": "\u270d\ufe0f"
+      "emoji": "\u270d\ufe0f",
+      "summarize": true
     },
     {
       "name": "Project Discovery",
       "url": "https://blog.projectdiscovery.io/rss/",
       "color": 4886754,
-      "emoji": "\ud83e\uddea"
+      "emoji": "\ud83e\uddea",
+      "summarize": true
     },
     {
       "name": "Watchtowr Labs",
       "url": "https://labs.watchtowr.com/rss/",
       "color": 15277667,
-      "emoji": "\ud83c\udfaf"
+      "emoji": "\ud83c\udfaf",
+      "summarize": true
     },
     {
       "name": "Google Project Zero",
       "url": "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss",
       "color": 15790320,
-      "emoji": "\ud83c\udf1f"
+      "emoji": "\ud83c\udf1f",
+      "summarize": true
     }
   ],
   "max_state_entries": 500,

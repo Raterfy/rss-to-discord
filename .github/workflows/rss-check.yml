@@ -28,6 +28,7 @@ jobs:
       - name: Run RSS checker
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python rss_to_discord.py
 
       - name: Commit state

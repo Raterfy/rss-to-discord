@@ -69,6 +69,34 @@ git push -u origin master
 
 After that, the cron runs **automatically every hour**, 24/7.
 
+## AI Summaries (optional)
+
+Feeds with `"summarize": true` in `config.json` get an AI-generated teaser via **Groq** (free). This creates punchy, attention-grabbing summaries instead of raw descriptions.
+
+### Setup Groq
+
+1. Create a free account at **https://console.groq.com**
+2. Go to **API Keys** > **Create API Key**
+3. Add it as a GitHub Secret: **Settings** > **Secrets** > **New repository secret**
+   - Name: `GROQ_API_KEY`
+   - Value: your `gsk_...` key
+
+That's it. Feeds with `"summarize": true` will now include AI teasers. Feeds without this option are unaffected.
+
+### Per-feed config
+
+```json
+{
+  "name": "Watchtowr Labs",
+  "url": "https://labs.watchtowr.com/rss/",
+  "color": 15277667,
+  "emoji": "\ud83c\udfaf",
+  "summarize": true
+}
+```
+
+Model used: **Llama 3.3 70B** via Groq (free tier: 14,400 requests/day).
+
 ## Configuration
 
 Key settings in `config.json`:

@@ -2,6 +2,7 @@
 """
 RSS to Discord - Veille cyber/tech automatisee
 Lit les flux RSS configures et poste les nouveaux articles sur Discord via webhook.
+Supporte les resumes IA via Groq (gratuit).
 """
 
 import json
@@ -21,6 +22,10 @@ STATE_FILE = os.path.join(SCRIPT_DIR, "state.json")
 
 # Rate limit Discord: max 30 messages/min, on reste safe
 DISCORD_DELAY = 2  # secondes entre chaque message
+
+# Groq API
+GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
+GROQ_MODEL = "llama-3.3-70b-versatile"
 
 
 def load_config():
@@ -85,16 +90,77 @@ def strip_html(text):
     return text.strip()
 
 
-def build_embed(entry, feed_config, max_desc_len):
+def summarize_article(title, description, groq_api_key):
+    """Resume un article via l'API Groq (gratuit)."""
+    if not groq_api_key:
+        return None
+
+    # Detecte la langue a partir du contenu
+    text = f"{title}\n{description}"
+    # Heuristique simple : si beaucoup de mots francais courants -> FR
+    fr_words = {"les", "des", "une", "pour", "dans", "avec", "sur", "par", "est", "sont", "qui", "que"}
+    words = set(text.lower().split())
+    lang = "french" if len(words & fr_words) >= 3 else "english"
+
+    prompt = (
+        f"You are writing a short teaser for a Discord cybersecurity news channel. "
+        f"Write 2-3 punchy sentences in {lang} that make readers want to click the article. "
+        f"Lead with the most surprising or impactful detail. "
+        f"Be specific: mention affected software, CVE numbers, attack techniques, or numbers when available. "
+        f"Use a direct, sharp tone. No filler words. "
+        f"Never start with 'This article', 'The article', 'Researchers', or 'A new'. "
+        f"Never repeat the title.\n\n"
+        f"Title: {title}\n\n"
+        f"Content: {description[:2000]}"
+    )
+
+    try:
+        resp = requests.post(
+            GROQ_API_URL,
+            headers={
+                "Authorization": f"Bearer {groq_api_key}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": GROQ_MODEL,
+                "messages": [{"role": "user", "content": prompt}],
+                "max_tokens": 200,
+                "temperature": 0.3,
+            },
+            timeout=15,
+        )
+        if resp.status_code == 200:
+            return resp.json()["choices"][0]["message"]["content"].strip()
+        else:
+            print(f"  Groq API erreur {resp.status_code}: {resp.text[:100]}")
+            return None
+    except requests.RequestException as e:
+        print(f"  Groq API erreur: {e}")
+        return None
+
+
+def build_embed(entry, feed_config, max_desc_len, groq_api_key=None):
     """Construit un embed Discord a partir d'un article RSS."""
     title = entry.get("title", "Sans titre")
     link = entry.get("link", "")
     summary = entry.get("summary", entry.get("description", ""))
 
-    # Nettoie et tronque la description
-    description = strip_html(summary)
-    if len(description) > max_desc_len:
-        description = description[:max_desc_len].rsplit("\n", 1)[0] + "\n..."
+    # Nettoie la description
+    clean_desc = strip_html(summary)
+
+    # Resume IA si active pour ce feed
+    should_summarize = feed_config.get("summarize", False)
+    ai_summary = None
+    if should_summarize and groq_api_key:
+        ai_summary = summarize_article(title, clean_desc, groq_api_key)
+
+    # Construit la description finale
+    if ai_summary:
+        description = f"**\U0001f4a1 Teaser :**\n{ai_summary}"
+    else:
+        description = clean_desc
+        if len(description) > max_desc_len:
+            description = description[:max_desc_len].rsplit("\n", 1)[0] + "\n..."
 
     embed = {
         "title": f"{feed_config['emoji']} {title}"[:256],
@@ -130,7 +196,7 @@ def post_to_discord(webhook_url, embed):
         return False
 
 
-def process_feed(feed_config, state, webhook_url, config, dry_run=False):
+def process_feed(feed_config, state, webhook_url, config, groq_api_key=None, dry_run=False):
     """Traite un flux RSS et poste les nouveaux articles."""
     feed_name = feed_config["name"]
     feed_url = feed_config["url"]
@@ -167,8 +233,8 @@ def process_feed(feed_config, state, webhook_url, config, dry_run=False):
             state["posted"].append(entry_id)
             continue
 
-        # Construit l'embed
-        embed = build_embed(entry, feed_config, config.get("max_description_length", 400))
+        # Construit l'embed (avec resume IA si active)
+        embed = build_embed(entry, feed_config, config.get("max_description_length", 400), groq_api_key)
 
         if dry_run:
             print(f"  [DRY RUN] {entry.get('title', 'Sans titre')}")
@@ -202,12 +268,19 @@ def main():
         print("Utilise --dry-run pour tester sans webhook")
         sys.exit(1)
 
+    # Groq API key (optionnel, pour les resumes IA)
+    groq_api_key = os.environ.get("GROQ_API_KEY", "")
+    if groq_api_key:
+        print("[+] Groq API detectee - resumes IA actifs")
+    else:
+        print("[*] Pas de GROQ_API_KEY - resumes IA desactives")
+
     config = load_config()
     state = load_state()
     total_new = 0
 
     for feed_config in config["feeds"]:
-        new = process_feed(feed_config, state, webhook_url, config, dry_run)
+        new = process_feed(feed_config, state, webhook_url, config, groq_api_key, dry_run)
         total_new += new
 
     save_state(state, config.get("max_state_entries", 500))
