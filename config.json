@@ -80,13 +80,7 @@
       "emoji": "\ud83d\udc1b",
       "summarize": true
     },
-    {
-      "name": "InfoSec Write-ups",
-      "url": "https://infosecwriteups.com/feed",
-      "color": 16776960,
-      "emoji": "\u270d\ufe0f",
-      "summarize": true
-    },
+
     {
       "name": "Project Discovery",
       "url": "https://blog.projectdiscovery.io/rss/",
