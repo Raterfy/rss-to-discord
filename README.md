@@ -18,6 +18,12 @@ Automated cyber/tech monitoring on Discord via GitHub Actions. Free, serverless,
 | [Dark Reading](https://www.darkreading.com/) | Enterprise cybersecurity |
 | [Schneier on Security](https://www.schneier.com/) | Crypto/security analysis |
 | [Ars Technica Security](https://arstechnica.com/tag/security/) | In-depth security articles |
+| [PortSwigger Research](https://portswigger.net/research) | Web security research (Burp Suite team) |
+| [Intigriti Blog](https://blog.intigriti.com/) | Bug bounty writeups & news |
+| [InfoSec Write-ups](https://infosecwriteups.com/) | Community security writeups |
+| [Project Discovery](https://blog.projectdiscovery.io/) | Vulnerability research & tooling |
+| [Watchtowr Labs](https://labs.watchtowr.com/) | Detailed 0-day writeups |
+| [Google Project Zero](https://googleprojectzero.blogspot.com/) | Elite 0-day research |
 
 ## Setup
 

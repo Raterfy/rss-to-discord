@@ -71,6 +71,42 @@
       "url": "https://arstechnica.com/tag/security/feed/",
       "color": 16737792,
       "emoji": "\ud83d\udee1\ufe0f"
+    },
+    {
+      "name": "PortSwigger Research",
+      "url": "https://portswigger.net/research/rss",
+      "color": 16744448,
+      "emoji": "\ud83d\udd2c"
+    },
+    {
+      "name": "Intigriti Blog",
+      "url": "https://blog.intigriti.com/feed/",
+      "color": 1146986,
+      "emoji": "\ud83d\udc1b"
+    },
+    {
+      "name": "InfoSec Write-ups",
+      "url": "https://infosecwriteups.com/feed",
+      "color": 16776960,
+      "emoji": "\u270d\ufe0f"
+    },
+    {
+      "name": "Project Discovery",
+      "url": "https://blog.projectdiscovery.io/rss/",
+      "color": 4886754,
+      "emoji": "\ud83e\uddea"
+    },
+    {
+      "name": "Watchtowr Labs",
+      "url": "https://labs.watchtowr.com/rss/",
+      "color": 15277667,
+      "emoji": "\ud83c\udfaf"
+    },
+    {
+      "name": "Google Project Zero",
+      "url": "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss",
+      "color": 15790320,
+      "emoji": "\ud83c\udf1f"
     }
   ],
   "max_state_entries": 500,
