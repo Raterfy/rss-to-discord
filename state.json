@@ -355,8 +355,10 @@
     "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
     "https://www.darkreading.com/application-security/mcp-security-patched",
     "https://krebsonsecurity.com/?p=73345",
-    "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html"
+    "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
+    "https://korben.info/agents-ia-100-bugs-kernel-windows.html",
+    "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html"
   ],
   "first_run_done": false,
-  "last_run": "2026-03-20T05:51:59.873755+00:00"
+  "last_run": "2026-03-20T06:55:29.392713+00:00"
 }
