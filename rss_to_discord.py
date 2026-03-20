@@ -238,6 +238,15 @@ def process_feed(feed_config, state, webhook_url, config, groq_api_key=None, dry
             state["posted"].append(entry_id)
             continue
 
+        # Filtre par mots-cles exclus (ex: HTB, THM)
+        exclude_keywords = feed_config.get("exclude_keywords", [])
+        if exclude_keywords:
+            title_lower = entry.get("title", "").lower()
+            if any(kw.lower() in title_lower for kw in exclude_keywords):
+                print(f"  [FILTRE] {entry.get('title', 'Sans titre')}")
+                state["posted"].append(entry_id)
+                continue
+
         # Construit l'embed (avec resume IA si active)
         embed = build_embed(entry, feed_config, config.get("max_description_length", 400), groq_api_key)
 
