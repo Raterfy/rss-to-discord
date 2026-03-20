@@ -12,7 +12,6 @@ Automated cyber/tech monitoring on Discord via GitHub Actions. Free, serverless,
 | [EFF](https://www.eff.org/) | Digital rights |
 | [MIT Tech Review - AI](https://www.technologyreview.com/) | Artificial intelligence |
 | [BleepingComputer](https://www.bleepingcomputer.com/) | Malware, vulnerabilities, ransomware |
-| [CERT-FR Alertes](https://www.cert.ssi.gouv.fr/) | ANSSI critical alerts (France) |
 | [Next.ink](https://next.ink/) | French tech/digital law news |
 | [Krebs on Security](https://krebsonsecurity.com/) | Cyber investigations |
 | [Dark Reading](https://www.darkreading.com/) | Enterprise cybersecurity |

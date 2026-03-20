@@ -37,12 +37,6 @@
       "emoji": "\ud83d\udca5"
     },
     {
-      "name": "CERT-FR Alertes",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/feed/",
-      "color": 16711680,
-      "emoji": "\ud83c\uddeb\ud83c\uddf7"
-    },
-    {
       "name": "Next.ink",
       "url": "https://next.ink/feed/",
       "color": 2067276,
