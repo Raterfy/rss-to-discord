@@ -2,8 +2,8 @@ name: RSS to Discord
 
 on:
   schedule:
-    # Toutes les heures
-    - cron: '0 * * * *'
+    # Toutes les 6 heures
+    - cron: '0 */6 * * *'
   workflow_dispatch:
     # Trigger manuel pour tester
 
