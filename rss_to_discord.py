@@ -90,17 +90,23 @@ def strip_html(text):
     return text.strip()
 
 
-def summarize_article(title, description, groq_api_key):
+def summarize_article(title, description, groq_api_key, lang=None):
     """Resume un article via l'API Groq (gratuit)."""
     if not groq_api_key:
         return None
 
-    # Detecte la langue a partir du contenu
-    text = f"{title}\n{description}"
-    # Heuristique simple : si beaucoup de mots francais courants -> FR
-    fr_words = {"les", "des", "une", "pour", "dans", "avec", "sur", "par", "est", "sont", "qui", "que"}
-    words = set(text.lower().split())
-    lang = "french" if len(words & fr_words) >= 3 else "english"
+    # Detecte la langue si non specifiee dans le config
+    lang_map = {"fr": "french", "en": "english"}
+    if lang and lang in lang_map:
+        lang = lang_map[lang]
+    elif not lang:
+        text = f"{title}\n{description}"
+        fr_words = {"les", "des", "une", "pour", "dans", "avec", "sur", "par",
+                    "est", "sont", "qui", "que", "nom", "adresse", "prénom",
+                    "données", "numéro", "téléphone", "fuite", "sécurité",
+                    "vulnérabilité", "découverte", "attaque", "réseau"}
+        words = set(text.lower().split())
+        lang = "french" if len(words & fr_words) >= 2 else "english"
 
     prompt = (
         f"Write a concise summary (2-3 sentences) in {lang} for a cybersecurity Discord channel.\n\n"
@@ -155,7 +161,8 @@ def build_embed(entry, feed_config, max_desc_len, groq_api_key=None):
     should_summarize = feed_config.get("summarize", False)
     ai_summary = None
     if should_summarize and groq_api_key:
-        ai_summary = summarize_article(title, clean_desc, groq_api_key)
+        feed_lang = feed_config.get("lang", None)
+        ai_summary = summarize_article(title, clean_desc, groq_api_key, feed_lang)
 
     # Tronque la description originale
     if len(clean_desc) > max_desc_len:

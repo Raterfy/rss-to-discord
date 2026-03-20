@@ -5,7 +5,8 @@
       "url": "https://bonjourlafuite.eu.org/feed.xml",
       "color": 15158332,
       "emoji": "\ud83d\udea8",
-      "summarize": true
+      "summarize": true,
+      "lang": "fr"
     },
     {
       "name": "Korben",
