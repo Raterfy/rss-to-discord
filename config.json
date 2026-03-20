@@ -4,7 +4,8 @@
       "name": "Bonjour la Fuite",
       "url": "https://bonjourlafuite.eu.org/feed.xml",
       "color": 15158332,
-      "emoji": "\ud83d\udea8"
+      "emoji": "\ud83d\udea8",
+      "summarize": true
     },
     {
       "name": "Korben",
@@ -22,13 +23,15 @@
       "name": "EFF",
       "url": "https://www.eff.org/rss/updates.xml",
       "color": 10181046,
-      "emoji": "\u2696\ufe0f"
+      "emoji": "\u2696\ufe0f",
+      "summarize": true
     },
     {
       "name": "MIT Tech Review - AI",
       "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "color": 15105570,
-      "emoji": "\ud83e\udd16"
+      "emoji": "\ud83e\udd16",
+      "summarize": true
     },
     {
       "name": "BleepingComputer",
@@ -58,13 +61,15 @@
       "name": "Schneier on Security",
       "url": "https://www.schneier.com/feed/atom/",
       "color": 12745742,
-      "emoji": "\ud83e\udde0"
+      "emoji": "\ud83e\udde0",
+      "summarize": true
     },
     {
       "name": "Ars Technica Security",
       "url": "https://arstechnica.com/tag/security/feed/",
       "color": 16737792,
-      "emoji": "\ud83d\udee1\ufe0f"
+      "emoji": "\ud83d\udee1\ufe0f",
+      "summarize": true
     },
     {
       "name": "PortSwigger Research",
