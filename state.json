@@ -1,11 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html",
-    "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
-    "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html",
-    "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html",
-    "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
-    "https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html",
     "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html",
     "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
     "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
@@ -499,8 +493,14 @@
     "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
     "https://next.ink/?p=230063",
     "https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw",
-    "https://www.schneier.com/?p=71739"
+    "https://www.schneier.com/?p=71739",
+    "https://korben.info/shadps4-emulateur-ps4-windows-linux-macos.html",
+    "https://korben.info/stitch-google-design-ia-canvas.html",
+    "https://korben.info/comma-ai-openpilot-v011-comma-4.html",
+    "https://korben.info/framasoft-suite-numerique-communs-etat.html",
+    "https://korben.info/des-scientifiques-ont-reussi-a-faire-pousser-des-patates-dans-du-sol-lunaire.html",
+    "https://korben.info/strava-trahit-la-position-du-porte-avions-charles-de-gaulle-en-pleine-mission.html"
   ],
   "first_run_done": false,
-  "last_run": "2026-03-21T01:49:10.594012+00:00"
+  "last_run": "2026-03-21T06:39:20.440521+00:00"
 }
