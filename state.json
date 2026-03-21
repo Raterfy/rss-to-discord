@@ -1,10 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html",
-    "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
-    "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
-    "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
-    "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
     "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html",
     "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
     "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
@@ -499,8 +494,13 @@
     "https://korben.info/comma-ai-openpilot-v011-comma-4.html",
     "https://korben.info/framasoft-suite-numerique-communs-etat.html",
     "https://korben.info/des-scientifiques-ont-reussi-a-faire-pousser-des-patates-dans-du-sol-lunaire.html",
-    "https://korben.info/strava-trahit-la-position-du-porte-avions-charles-de-gaulle-en-pleine-mission.html"
+    "https://korben.info/strava-trahit-la-position-du-porte-avions-charles-de-gaulle-en-pleine-mission.html",
+    "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
+    "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
+    "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
+    "https://next.ink/?p=230035",
+    "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-broken-access-control-vulnerabilities"
   ],
   "first_run_done": false,
-  "last_run": "2026-03-21T06:39:20.440521+00:00"
+  "last_run": "2026-03-21T12:42:40.088042+00:00"
 }
