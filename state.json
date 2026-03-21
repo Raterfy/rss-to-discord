@@ -1,11 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html",
-    "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
-    "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
-    "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html",
-    "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
-    "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
     "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
     "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
     "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
@@ -499,8 +493,14 @@
     "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
     "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
     "https://next.ink/?p=230035",
-    "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-broken-access-control-vulnerabilities"
+    "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-broken-access-control-vulnerabilities",
+    "https://korben.info/geek-code-encodage-identite-ascii-1993.html",
+    "https://korben.info/higgsfield-ai-original-series.html",
+    "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
+    "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
+    "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
+    "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/"
   ],
   "first_run_done": false,
-  "last_run": "2026-03-21T12:42:40.088042+00:00"
+  "last_run": "2026-03-21T18:33:14.420338+00:00"
 }
