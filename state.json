@@ -1,13 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html",
-    "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html",
-    "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
-    "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
-    "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
-    "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
-    "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
-    "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
     "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
     "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
     "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
@@ -499,8 +491,16 @@
     "https://bonjourlafuite.eu.org#🟢 Enseignement Catholique-2026-03-21",
     "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html",
     "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
-    "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html"
+    "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
+    "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
+    "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
+    "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
+    "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
+    "https://medium.com/p/e5f766a4df79",
+    "https://medium.com/p/dd27b6a78fb2",
+    "https://medium.com/p/554a944847b6",
+    "https://medium.com/p/1295d50ec29c"
   ],
   "first_run_done": false,
-  "last_run": "2026-03-22T02:00:28.027825+00:00"
+  "last_run": "2026-03-22T06:48:22.106998+00:00"
 }
