@@ -1,17 +1,5 @@
 {
   "posted": [
-    "111712 at https://www.eff.org",
-    "111713 at https://www.eff.org",
-    "111716 at https://www.eff.org",
-    "111718 at https://www.eff.org",
-    "111720 at https://www.eff.org",
-    "111727 at https://www.eff.org",
-    "111711 at https://www.eff.org",
-    "111729 at https://www.eff.org",
-    "111721 at https://www.eff.org",
-    "111709 at https://www.eff.org",
-    "111732 at https://www.eff.org",
-    "111734 at https://www.eff.org",
     "111736 at https://www.eff.org",
     "111705 at https://www.eff.org",
     "111738 at https://www.eff.org",
@@ -499,8 +487,20 @@
     "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
     "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
     "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
-    "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html"
+    "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+    "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
+    "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
+    "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html",
+    "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
+    "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
+    "111704 at https://www.eff.org",
+    "111707 at https://www.eff.org",
+    "111706 at https://www.eff.org",
+    "https://medium.com/p/e0cbb76c5871",
+    "https://medium.com/p/9e95f3d7723a",
+    "https://medium.com/p/d07b6c12900a",
+    "https://medium.com/p/ad8b992f7e42"
   ],
   "first_run_done": false,
-  "last_run": "2026-03-23T02:01:19.509654+00:00"
+  "last_run": "2026-03-23T07:06:44.642996+00:00"
 }
