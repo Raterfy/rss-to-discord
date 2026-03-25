@@ -1,15 +1,5 @@
 {
   "posted": [
-    "https://www.darkreading.com/application-security/cyberattack-mexico-government-ai-threat",
-    "https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine",
-    "https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards",
-    "https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams",
-    "https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services",
-    "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors",
-    "https://www.darkreading.com/application-security/auto-remediation-agentic-ai",
-    "https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code",
-    "https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense",
-    "https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows",
     "https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit",
     "https://www.darkreading.com/application-security/overly-permissive-salesforce-cloud-configs-crosshairs",
     "https://www.darkreading.com/application-security/microsoft-patches-83-cves-march-update",
@@ -499,8 +489,18 @@
     "https://next.ink/?p=229588",
     "https://next.ink/?post_type=brief_article&p=229619",
     "https://www.darkreading.com/application-security/ai-coding-tools-endpoint-security",
-    "https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain"
+    "https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain",
+    "https://next.ink/?p=229658",
+    "https://krebsonsecurity.com/?p=73145",
+    "https://krebsonsecurity.com/?p=73188",
+    "https://krebsonsecurity.com/?p=73186",
+    "https://krebsonsecurity.com/?p=73214",
+    "https://krebsonsecurity.com/?p=73057",
+    "https://krebsonsecurity.com/?p=73278",
+    "https://krebsonsecurity.com/?p=73276",
+    "https://krebsonsecurity.com/?p=73316",
+    "https://www.darkreading.com/threat-intelligence/iran-hacktivists-impact-on-war"
   ],
   "first_run_done": false,
-  "last_run": "2026-03-25T01:59:00.102819+00:00"
+  "last_run": "2026-03-25T06:59:31.021993+00:00"
 }
