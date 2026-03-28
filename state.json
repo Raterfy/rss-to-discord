@@ -1,16 +1,5 @@
 {
   "posted": [
-    "111732 at https://www.eff.org",
-    "111734 at https://www.eff.org",
-    "https://www.technologyreview.com/?p=1134491",
-    "https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/",
-    "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/",
-    "https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/",
-    "https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/",
-    "https://next.ink/?post_type=brief_article&p=230081",
-    "https://next.ink/?post_type=brief_article&p=230082",
-    "https://next.ink/?post_type=brief_article&p=230084",
-    "https://next.ink/?p=216687",
     "https://next.ink/?post_type=brief_article&p=230091",
     "https://next.ink/?p=230123",
     "https://next.ink/?post_type=brief_article&p=230173",
@@ -499,8 +488,19 @@
     "https://www.schneier.com/?p=71807",
     "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
     "111727 at https://www.eff.org",
-    "111711 at https://www.eff.org"
+    "111711 at https://www.eff.org",
+    "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+    "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+    "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+    "111729 at https://www.eff.org",
+    "111721 at https://www.eff.org",
+    "111709 at https://www.eff.org",
+    "https://medium.com/p/b7d8e957440e",
+    "https://medium.com/p/b73b86696f74",
+    "https://medium.com/p/dc35caf61142",
+    "https://medium.com/p/a6e6a89f4ae6",
+    "https://medium.com/p/389909256dc5"
   ],
   "first_run_done": false,
-  "last_run": "2026-03-28T06:56:16.730153+00:00"
+  "last_run": "2026-03-28T12:51:06.504714+00:00"
 }
