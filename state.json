@@ -1,11 +1,5 @@
 {
   "posted": [
-    "https://next.ink/?post_type=brief_article&p=230091",
-    "https://next.ink/?p=230123",
-    "https://next.ink/?post_type=brief_article&p=230173",
-    "https://next.ink/?post_type=brief_article&p=230176",
-    "https://www.schneier.com/?p=71771",
-    "https://medium.com/p/9cada1bcd47b",
     "https://medium.com/p/169e6e4d95d5",
     "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
     "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
@@ -499,8 +493,14 @@
     "https://medium.com/p/b73b86696f74",
     "https://medium.com/p/dc35caf61142",
     "https://medium.com/p/a6e6a89f4ae6",
-    "https://medium.com/p/389909256dc5"
+    "https://medium.com/p/389909256dc5",
+    "https://korben.info/des-hackers-piratent-la-boite-mail-personnelle-du-directeur-du-fbi.html",
+    "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
+    "111732 at https://www.eff.org",
+    "111734 at https://www.eff.org",
+    "https://www.technologyreview.com/?p=1134491",
+    "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/"
   ],
   "first_run_done": false,
-  "last_run": "2026-03-28T12:51:06.504714+00:00"
+  "last_run": "2026-03-28T18:37:27.953166+00:00"
 }
