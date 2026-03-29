@@ -1,13 +1,5 @@
 {
   "posted": [
-    "111736 at https://www.eff.org",
-    "111705 at https://www.eff.org",
-    "111738 at https://www.eff.org",
-    "111741 at https://www.eff.org",
-    "111700 at https://www.eff.org",
-    "111758 at https://www.eff.org",
-    "111759 at https://www.eff.org",
-    "111751 at https://www.eff.org",
     "111768 at https://www.eff.org",
     "111766 at https://www.eff.org",
     "111778 at https://www.eff.org",
@@ -499,8 +491,16 @@
     "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
     "https://www.schneier.com/?p=71771",
     "69c8147c20fa560001198f9f",
-    "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html"
+    "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
+    "https://korben.info/il-transforme-lordinateur-de-bord-dune-tesla-model-3-en-pc-de-bureau.html",
+    "https://korben.info/scx-horoscope-scheduler-linux.html",
+    "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
+    "https://medium.com/p/4e83729725f6",
+    "https://medium.com/p/0f05e583c00b",
+    "https://medium.com/p/b7c7de44f296",
+    "https://medium.com/p/350b6f692bd5",
+    "https://medium.com/p/9fe0c2df0952"
   ],
   "first_run_done": false,
-  "last_run": "2026-03-29T07:00:13.110030+00:00"
+  "last_run": "2026-03-29T12:51:14.972042+00:00"
 }
