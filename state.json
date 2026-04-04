@@ -1,16 +1,5 @@
 {
   "posted": [
-    "https://next.ink/?p=231521",
-    "https://krebsonsecurity.com/?p=73145",
-    "https://www.darkreading.com/application-security/ai-coding-tools-endpoint-security",
-    "https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain",
-    "https://medium.com/p/6dc3e5520242",
-    "https://medium.com/p/8a10e12930a4",
-    "https://medium.com/p/8aa96977b238",
-    "https://medium.com/p/c80c6f73f52d",
-    "https://medium.com/p/d23394007577",
-    "https://medium.com/p/65dc8b4e3f4d",
-    "https://medium.com/p/0b4f8a17ca82",
     "https://medium.com/p/b65ea907ca87",
     "https://medium.com/p/38a22b32091a",
     "https://medium.com/p/2750907b095b",
@@ -499,8 +488,19 @@
     "111881 at https://www.eff.org",
     "https://www.darkreading.com/cyber-risk/manufacturing-and-healthcare-share-struggles-with-passwords",
     "https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection",
-    "https://www.intigriti.com/blog/business-insights/vulnerability-disclosure-for-ai-safeguards-how-open-should-programs-be-and-what-i"
+    "https://www.intigriti.com/blog/business-insights/vulnerability-disclosure-for-ai-safeguards-how-open-should-programs-be-and-what-i",
+    "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
+    "111854 at https://www.eff.org",
+    "111850 at https://www.eff.org",
+    "https://next.ink/?p=232334",
+    "https://medium.com/p/73e202a7eb32",
+    "https://medium.com/p/790e090d1303",
+    "https://medium.com/p/fdced58088b1",
+    "https://medium.com/p/8f29d30c9f70",
+    "https://medium.com/p/42ab78e13642",
+    "https://medium.com/p/c40d0b0c4d27",
+    "https://medium.com/p/7d36647cbf36"
   ],
   "first_run_done": false,
-  "last_run": "2026-04-04T06:58:02.913131+00:00"
+  "last_run": "2026-04-04T12:51:03.432146+00:00"
 }
