@@ -1,11 +1,5 @@
 {
   "posted": [
-    "https://next.ink/?p=231533",
-    "https://next.ink/?p=231437",
-    "https://krebsonsecurity.com/?p=73188",
-    "https://krebsonsecurity.com/?p=73186",
-    "https://krebsonsecurity.com/?p=73214",
-    "https://krebsonsecurity.com/?p=73057",
     "https://krebsonsecurity.com/?p=73278",
     "https://krebsonsecurity.com/?p=73276",
     "https://krebsonsecurity.com/?p=73316",
@@ -499,8 +493,14 @@
     "111852 at https://www.eff.org",
     "https://www.technologyreview.com/?p=1134571",
     "https://www.technologyreview.com/?p=1134516",
-    "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/"
+    "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
+    "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
+    "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
+    "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/",
+    "https://next.ink/?post_type=brief_article&p=231555",
+    "https://next.ink/?p=231548",
+    "https://next.ink/?p=231444"
   ],
   "first_run_done": false,
-  "last_run": "2026-04-05T18:40:24.800091+00:00"
+  "last_run": "2026-04-06T02:11:52.008356+00:00"
 }
