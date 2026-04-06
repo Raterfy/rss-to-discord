@@ -1,20 +1,5 @@
 {
   "posted": [
-    "https://krebsonsecurity.com/?p=73278",
-    "https://krebsonsecurity.com/?p=73276",
-    "https://krebsonsecurity.com/?p=73316",
-    "https://www.darkreading.com/threat-intelligence/iran-hacktivists-impact-on-war",
-    "https://www.schneier.com/?p=71821",
-    "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
-    "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
-    "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
-    "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
-    "111860 at https://www.eff.org",
-    "111858 at https://www.eff.org",
-    "https://www.technologyreview.com/?p=1134642",
-    "https://www.technologyreview.com/?p=1134833",
-    "https://www.technologyreview.com/?p=1134762",
-    "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
     "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
     "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
     "https://next.ink/?post_type=brief_article&p=230663",
@@ -499,8 +484,23 @@
     "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/",
     "https://next.ink/?post_type=brief_article&p=231555",
     "https://next.ink/?p=231548",
-    "https://next.ink/?p=231444"
+    "https://next.ink/?p=231444",
+    "https://korben.info/ce-smartphone-android-fait-tourner-red-dead-redemption-2-et-cyberpunk-2077-en-local.html",
+    "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
+    "https://next.ink/?p=231533",
+    "https://next.ink/?p=231437",
+    "https://krebsonsecurity.com/?p=73188",
+    "https://krebsonsecurity.com/?p=73186",
+    "https://krebsonsecurity.com/?p=73214",
+    "https://krebsonsecurity.com/?p=73057",
+    "https://krebsonsecurity.com/?p=73394",
+    "https://medium.com/p/6d70be429404",
+    "https://medium.com/p/53e4da28f374",
+    "https://medium.com/p/7d2f91af9ec2",
+    "https://medium.com/p/09e4eef3e1a8",
+    "https://medium.com/p/663b3d6e3bb4",
+    "https://medium.com/p/5745ae8b085e"
   ],
   "first_run_done": false,
-  "last_run": "2026-04-06T02:11:52.008356+00:00"
+  "last_run": "2026-04-06T07:26:38.601499+00:00"
 }
