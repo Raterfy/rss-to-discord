@@ -1,14 +1,5 @@
 {
   "posted": [
-    "https://korben.info/bluehammer-faille-zero-day-windows.html",
-    "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
-    "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
-    "https://next.ink/?post_type=brief_article&p=231574",
-    "https://next.ink/?p=231701",
-    "https://next.ink/?p=232392",
-    "https://www.darkreading.com/cyber-risk/rsac-eu-leads-us-officials-sidelined",
-    "https://arstechnica.com/security/2025/05/google-introduces-advanced-protection-mode-for-its-most-at-risk-android-users/",
-    "https://arstechnica.com/security/2025/05/signal-resorts-to-weird-trick-to-block-windows-recall-in-desktop-app/",
     "https://arstechnica.com/security/2025/05/us-insider-threat-cybersecurity-worker-arrested-as-insider-threat/",
     "https://arstechnica.com/gaming/2025/06/nintendo-warns-switch-2-gamechat-users-your-chat-is-recorded/",
     "https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/",
@@ -499,8 +490,17 @@
     "https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual",
     "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi",
     "https://www.schneier.com/?p=71856",
-    "https://www.schneier.com/?p=71878"
+    "https://www.schneier.com/?p=71878",
+    "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
+    "https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials",
+    "https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem",
+    "https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack",
+    "https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day",
+    "https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized",
+    "https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github",
+    "https://www.schneier.com/?p=71903"
   ],
   "first_run_done": false,
-  "last_run": "2026-04-11T02:01:31.679836+00:00"
+  "last_run": "2026-04-11T06:58:14.334228+00:00"
 }
