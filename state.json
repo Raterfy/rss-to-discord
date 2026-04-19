@@ -1,18 +1,5 @@
 {
   "posted": [
-    "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
-    "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
-    "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/",
-    "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
-    "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
-    "https://next.ink/?p=233450",
-    "https://next.ink/?post_type=brief_article&p=233460",
-    "https://next.ink/?post_type=brief_article&p=233463",
-    "https://next.ink/?post_type=brief_article&p=233414",
-    "https://next.ink/?p=233476",
-    "https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks",
-    "https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments",
-    "https://www.darkreading.com/cyber-risk/lies-damned-lies-cybersecurity-metrics",
     "https://www.darkreading.com/cybersecurity-operations/human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends",
     "https://www.darkreading.com/cybersecurity-operations/rsac-2026-how-ai-is-reshaping-cybersecurity-faster-than-ever",
     "https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials",
@@ -499,8 +486,21 @@
     "https://www.schneier.com/?p=71867",
     "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
     "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
-    "111944 at https://www.eff.org"
+    "111944 at https://www.eff.org",
+    "111946 at https://www.eff.org",
+    "111945 at https://www.eff.org",
+    "https://www.technologyreview.com/?p=1135720",
+    "https://medium.com/p/1bdcbaf9a9d8",
+    "https://medium.com/p/35fa3f36b7c3",
+    "https://medium.com/p/180a9f350d8f",
+    "https://medium.com/p/735617ec8849",
+    "https://medium.com/p/cddd7c32dce1",
+    "https://medium.com/p/61393f4a2251",
+    "https://medium.com/p/ebacf745957d",
+    "https://medium.com/p/5597222e982d",
+    "https://medium.com/p/47feabde6843",
+    "https://medium.com/p/954547119c0f"
   ],
   "first_run_done": false,
-  "last_run": "2026-04-19T02:27:03.059146+00:00"
+  "last_run": "2026-04-19T07:15:57.321236+00:00"
 }
