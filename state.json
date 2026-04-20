@@ -1,18 +1,5 @@
 {
   "posted": [
-    "https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/",
-    "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
-    "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
-    "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
-    "smashing-the-state-machine",
-    "how-to-build-custom-scanners-for-web-security-research-automation",
-    "the-single-packet-attack-making-remote-race-conditions-local",
-    "blind-css-exfiltration",
-    "https://korben.info/llmfit-trouver-llm-compatible-hardware.html",
-    "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
-    "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
-    "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
-    "111873 at https://www.eff.org",
     "111891 at https://www.eff.org",
     "https://next.ink/?post_type=brief_article&p=233515",
     "https://next.ink/?p=233518",
@@ -499,8 +486,21 @@
     "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
     "https://arstechnica.com/gadgets/2025/12/google-is-shutting-down-dark-web-reports-in-january-because-they-werent-helpful/",
     "https://arstechnica.com/gadgets/2026/01/researchers-reveal-whisperpair-attack-to-eavesdrop-on-google-fast-pair-headphones/",
-    "https://medium.com/p/5f8147d92970"
+    "https://medium.com/p/5f8147d92970",
+    "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
+    "111953 at https://www.eff.org",
+    "https://next.ink/?post_type=brief_article&p=234132",
+    "https://next.ink/?post_type=brief_article&p=234134",
+    "https://next.ink/?p=234127",
+    "https://next.ink/?post_type=brief_article&p=234167",
+    "https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data",
+    "https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity",
+    "https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness",
+    "https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day",
+    "https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm",
+    "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/",
+    "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/"
   ],
   "first_run_done": false,
-  "last_run": "2026-04-20T02:27:43.595807+00:00"
+  "last_run": "2026-04-20T08:02:51.512497+00:00"
 }
