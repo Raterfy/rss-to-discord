@@ -1,8 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
-    "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
-    "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
     "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
     "111835 at https://www.eff.org",
     "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
@@ -499,8 +496,11 @@
     "https://next.ink/?p=235458",
     "https://krebsonsecurity.com/?p=73440",
     "https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads",
-    "repeater-strike-manual-testing-amplified"
+    "repeater-strike-manual-testing-amplified",
+    "https://korben.info/cartes-bancaires-biometriques-empreinte-fin-code-pin.html",
+    "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/"
   ],
   "first_run_done": false,
-  "last_run": "2026-04-25T12:59:11.048530+00:00"
+  "last_run": "2026-04-25T18:47:34.086465+00:00"
 }
