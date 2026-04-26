@@ -1,18 +1,5 @@
 {
   "posted": [
-    "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
-    "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
-    "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
-    "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
-    "https://next.ink/?p=234281",
-    "https://next.ink/?post_type=brief_article&p=234309",
-    "https://next.ink/?p=234333",
-    "https://next.ink/?p=234371",
-    "https://next.ink/?p=234401",
-    "https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses",
-    "https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update",
-    "https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity",
-    "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy",
     "https://www.schneier.com/?p=71967",
     "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
     "http1-must-die",
@@ -499,8 +486,21 @@
     "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
     "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
     "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
-    "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html"
+    "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+    "https://korben.info/blueprint-am-genere-hardware-prompt-ia.html",
+    "https://korben.info/windiskwriter-cle-usb-windows-macos.html",
+    "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+    "https://medium.com/p/bb7c2322e30f",
+    "https://medium.com/p/80752e4d5ec5",
+    "https://medium.com/p/46607fc4781b",
+    "https://medium.com/p/5468d7a2b6ce",
+    "https://medium.com/p/c38cb9bc8c88",
+    "https://medium.com/p/758eaf91ffb7",
+    "https://medium.com/p/7d42fbc62711",
+    "https://medium.com/p/4225510adf4d",
+    "https://medium.com/p/74a0b4c2b8f5",
+    "https://medium.com/p/026ba83941b1"
   ],
   "first_run_done": false,
-  "last_run": "2026-04-26T02:30:27.158132+00:00"
+  "last_run": "2026-04-26T07:25:58.938950+00:00"
 }
