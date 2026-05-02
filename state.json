@@ -1,15 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
-    "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-    "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
-    "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
-    "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
-    "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
-    "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
-    "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
-    "https://www.technologyreview.com/?p=1135295",
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
     "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
     "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
     "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
@@ -499,8 +489,18 @@
     "69b9cf8461eca100016f2b6b",
     "69bc576e61eca100016f2c62",
     "69c8147c20fa560001198f9f",
-    "https://projectzero.google/2025/12/thinking-outside-the-box"
+    "https://projectzero.google/2025/12/thinking-outside-the-box",
+    "https://bonjourlafuite.eu.org#🟢 My Piscine-2026-04-23",
+    "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+    "https://projectzero.google/2025/12/welcome",
+    "https://projectzero.google/2026/01/0-click-android-part1",
+    "https://projectzero.google/2026/01/0-click-android-part2",
+    "https://projectzero.google/2026/01/0-click-android-part3",
+    "https://projectzero.google/2026/26/windows-administrator-protection",
+    "https://projectzero.google/2026/01/sound-barrier-2",
+    "https://projectzero.google/2026/02/windows-administrator-protection",
+    "https://projectzero.google/2026/03/mutational-grammar-fuzzing"
   ],
   "first_run_done": false,
-  "last_run": "2026-05-02T13:05:19.674424+00:00"
+  "last_run": "2026-05-02T18:55:37.389482+00:00"
 }
