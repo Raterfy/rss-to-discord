@@ -1,11 +1,5 @@
 {
   "posted": [
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
-    "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
-    "https://next.ink/?p=235837",
-    "https://next.ink/?p=235888",
-    "https://krebsonsecurity.com/?p=73368",
     "https://www.schneier.com/?p=71969",
     "https://www.schneier.com/?p=71990",
     "https://www.intigriti.com/blog/business-insights/vulnerability-disclosure-for-ai-safeguards-how-open-should-programs-be-and-what-i",
@@ -499,8 +493,14 @@
     "https://projectzero.google/2026/26/windows-administrator-protection",
     "https://projectzero.google/2026/01/sound-barrier-2",
     "https://projectzero.google/2026/02/windows-administrator-protection",
-    "https://projectzero.google/2026/03/mutational-grammar-fuzzing"
+    "https://projectzero.google/2026/03/mutational-grammar-fuzzing",
+    "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
+    "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
+    "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
+    "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
+    "https://www.technologyreview.com/?p=1135295",
+    "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/"
   ],
   "first_run_done": false,
-  "last_run": "2026-05-02T18:55:37.389482+00:00"
+  "last_run": "2026-05-03T02:39:23.576810+00:00"
 }
