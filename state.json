@@ -1,9 +1,5 @@
 {
   "posted": [
-    "https://www.schneier.com/?p=71969",
-    "https://www.schneier.com/?p=71990",
-    "https://www.intigriti.com/blog/business-insights/vulnerability-disclosure-for-ai-safeguards-how-open-should-programs-be-and-what-i",
-    "https://www.intigriti.com/researchers/blog/hacking-tools/0326-ctf-challenge-exploiting-dom-clobbering-csp-xss",
     "https://korben.info/un-agent-efface-la-base-de-prod-de-pocketos-en-neuf-secondes.html",
     "https://korben.info/les-archeologues-de-pompei-utilisent-lia-pour-reconstruire-le-visage-dune-victime-du-vesuve.html",
     "https://korben.info/une-manette-sega-master-system-de-1985-modifiee-pour-fonctionner-en-usb-c.html",
@@ -499,8 +495,12 @@
     "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
     "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
     "https://www.technologyreview.com/?p=1135295",
-    "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/"
+    "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+    "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
+    "https://next.ink/?p=235837",
+    "https://next.ink/?p=235888",
+    "https://krebsonsecurity.com/?p=73368"
   ],
   "first_run_done": false,
-  "last_run": "2026-05-03T02:39:23.576810+00:00"
+  "last_run": "2026-05-03T07:58:15.095202+00:00"
 }
