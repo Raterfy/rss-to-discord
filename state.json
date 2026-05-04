@@ -1,11 +1,5 @@
 {
   "posted": [
-    "111939 at https://www.eff.org",
-    "111967 at https://www.eff.org",
-    "111970 at https://www.eff.org",
-    "111991 at https://www.eff.org",
-    "111994 at https://www.eff.org",
-    "112014 at https://www.eff.org",
     "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
     "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
     "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
@@ -499,8 +493,14 @@
     "https://www.intigriti.com/researchers/blog/hacking-tools/0326-ctf-challenge-exploiting-dom-clobbering-csp-xss",
     "https://korben.info/browserquest-mmo-mozilla-html5-retour.html",
     "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
-    "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/"
+    "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+    "https://bonjourlafuite.eu.org#🟢 Interrail-2026-05-03",
+    "https://bonjourlafuite.eu.org#🟢 Fédération Française de Basketball-2026-05-03",
+    "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
+    "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
+    "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+    "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/"
   ],
   "first_run_done": false,
-  "last_run": "2026-05-03T18:56:11.453170+00:00"
+  "last_run": "2026-05-04T02:37:12.531223+00:00"
 }
