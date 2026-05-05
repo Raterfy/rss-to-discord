@@ -1,14 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
-    "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
-    "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
-    "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
-    "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
-    "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
-    "https://next.ink/?p=234550",
-    "https://next.ink/?post_type=brief_article&p=235058",
-    "https://next.ink/?p=234952",
     "https://next.ink/?p=235937",
     "https://next.ink/?post_type=brief_article&p=235992",
     "https://next.ink/?p=235981",
@@ -499,8 +490,17 @@
     "https://next.ink/?p=235932",
     "https://next.ink/?p=235911",
     "https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability",
-    "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign"
+    "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
+    "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+    "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+    "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
+    "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
+    "111977 at https://www.eff.org",
+    "https://next.ink/?p=236550",
+    "https://next.ink/?p=236765",
+    "https://next.ink/?p=236576",
+    "https://next.ink/?post_type=brief_article&p=236793"
   ],
   "first_run_done": false,
-  "last_run": "2026-05-05T02:31:03.506390+00:00"
+  "last_run": "2026-05-05T08:05:58.178467+00:00"
 }
