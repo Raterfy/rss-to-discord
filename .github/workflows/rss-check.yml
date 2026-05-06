@@ -10,9 +10,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: rss-to-discord
+  cancel-in-progress: false
+
 jobs:
   check-rss:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -23,13 +28,23 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        uses: nick-fields/retry@v3
+        with:
+          timeout_minutes: 3
+          max_attempts: 3
+          retry_wait_seconds: 15
+          command: pip install -r requirements.txt
 
       - name: Run RSS checker
+        uses: nick-fields/retry@v3
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-        run: python rss_to_discord.py
+        with:
+          timeout_minutes: 5
+          max_attempts: 2
+          retry_wait_seconds: 30
+          command: python rss_to_discord.py
 
       - name: Commit state
         run: |
