@@ -1,16 +1,5 @@
 {
   "posted": [
-    "111991 at https://www.eff.org",
-    "111994 at https://www.eff.org",
-    "112014 at https://www.eff.org",
-    "https://next.ink/?post_type=brief_article&p=236580",
-    "https://next.ink/?post_type=brief_article&p=236592",
-    "https://next.ink/?p=236584",
-    "https://next.ink/?post_type=brief_article&p=236607",
-    "https://next.ink/?p=236605",
-    "https://korben.info/un-ipod-nano-transforme-en-workstation-triple-ecran.html",
-    "https://korben.info/agent-safehouse-garde-fou-agents-ia-macos.html",
-    "https://korben.info/oauth2-proxy-lauthentification-oidc-en-reverse-proxy.html",
     "https://korben.info/rtk-proxy-rust-economiser-tokens.html",
     "https://korben.info/photographier-les-vraies-couleurs-en-stockant-tout-le-spectre-etait-deja-possible-en-1891.html",
     "https://korben.info/reactos-le-clone-open-source-de-windows-simplifie-son-installation.html",
@@ -499,8 +488,19 @@
     "https://projectzero.google/2026/26/windows-administrator-protection",
     "https://projectzero.google/2026/01/sound-barrier-2",
     "https://projectzero.google/2026/02/windows-administrator-protection",
-    "https://projectzero.google/2026/03/mutational-grammar-fuzzing"
+    "https://projectzero.google/2026/03/mutational-grammar-fuzzing",
+    "https://bonjourlafuite.eu.org#🟢 Interrail-2026-05-03",
+    "https://bonjourlafuite.eu.org#🟢 Fédération Française de Basketball-2026-05-03",
+    "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html",
+    "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
+    "111939 at https://www.eff.org",
+    "111967 at https://www.eff.org",
+    "111970 at https://www.eff.org",
+    "https://krebsonsecurity.com/?p=73368",
+    "https://www.schneier.com/?p=71990",
+    "https://www.intigriti.com/blog/business-insights/vulnerability-disclosure-for-ai-safeguards-how-open-should-programs-be-and-what-i",
+    "https://www.intigriti.com/researchers/blog/hacking-tools/0326-ctf-challenge-exploiting-dom-clobbering-csp-xss"
   ],
   "first_run_done": false,
-  "last_run": "2026-05-09T02:37:32.628170+00:00"
+  "last_run": "2026-05-09T07:52:57.968462+00:00"
 }
