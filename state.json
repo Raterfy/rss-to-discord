@@ -1,12 +1,5 @@
 {
   "posted": [
-    "https://next.ink/?p=237795",
-    "https://www.darkreading.com/cyber-risk/lotus-wiper-attack-targeted-venezuelan-energy-firms-utilities",
-    "https://www.darkreading.com/cyber-risk/physical-cargo-theft-cybercriminals",
-    "https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk",
-    "https://www.darkreading.com/cybersecurity-operations/20-leaders-ciso-era-2-decades-change",
-    "https://www.schneier.com/?p=72023",
-    "https://arstechnica.com/security/2025/05/us-insider-threat-cybersecurity-worker-arrested-as-insider-threat/",
     "https://arstechnica.com/gaming/2025/06/nintendo-warns-switch-2-gamechat-users-your-chat-is-recorded/",
     "https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/",
     "https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/",
@@ -499,8 +492,15 @@
     "111943 at https://www.eff.org",
     "111975 at https://www.eff.org",
     "111927 at https://www.eff.org",
-    "112001 at https://www.eff.org"
+    "112001 at https://www.eff.org",
+    "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+    "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+    "https://next.ink/?p=237711",
+    "https://next.ink/?post_type=brief_article&p=237751",
+    "https://next.ink/?post_type=brief_article&p=237752",
+    "https://next.ink/?p=237345",
+    "https://next.ink/?p=237729"
   ],
   "first_run_done": false,
-  "last_run": "2026-05-17T13:14:38.803953+00:00"
+  "last_run": "2026-05-17T19:04:32.951193+00:00"
 }
