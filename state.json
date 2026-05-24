@@ -1,11 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
-    "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
-    "112019 at https://www.eff.org",
-    "112024 at https://www.eff.org",
-    "112068 at https://www.eff.org",
-    "112056 at https://www.eff.org",
     "https://www.technologyreview.com/?p=1137203",
     "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
     "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
@@ -499,8 +493,14 @@
     "https://next.ink/?p=238214",
     "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
     "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
-    "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/"
+    "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+    "https://bonjourlafuite.eu.org#🟢 Alan-2026-05-23",
+    "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
+    "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
+    "https://next.ink/?post_type=brief_article&p=238340",
+    "smashing-the-state-machine",
+    "how-to-build-custom-scanners-for-web-security-research-automation"
   ],
   "first_run_done": false,
-  "last_run": "2026-05-23T19:05:21.002193+00:00"
+  "last_run": "2026-05-24T02:56:40.493715+00:00"
 }
