@@ -1,13 +1,5 @@
 {
   "posted": [
-    "introducing-signsaboteur-forge-signed-web-tokens-with-ease",
-    "adjusting-your-http-perspective-with-bambdas",
-    "new-exotic-events-in-the-xss-cheat-sheet",
-    "a-hacking-hat-trick-previewing-three-portswigger-research-publications-coming-to-def-con-amp-black-hat-usa",
-    "fickle-pdfs-exploiting-browser-rendering-discrepancies",
-    "listen-to-the-whispers-web-timing-attacks-that-actually-work",
-    "splitting-the-email-atom",
-    "gotta-cache-em-all",
     "introducing-the-url-validation-bypass-cheat-sheet",
     "concealing-payloads-in-url-credentials",
     "new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
@@ -499,8 +491,16 @@
     "top-10-web-hacking-techniques-of-2023",
     "using-form-hijacking-to-bypass-csp",
     "trace-desync-attack",
-    "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-sql-injection-sqli-vulnerabilities"
+    "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-sql-injection-sqli-vulnerabilities",
+    "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
+    "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
+    "112076 at https://www.eff.org",
+    "https://next.ink/?p=238480",
+    "https://krebsonsecurity.com/?p=73440",
+    "https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape",
+    "https://www.darkreading.com/events/anatomy-of-a-data-breach-what-to-do-if-it-happens-to-you",
+    "https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos"
   ],
   "first_run_done": false,
-  "last_run": "2026-05-25T19:25:49.263946+00:00"
+  "last_run": "2026-05-26T02:52:16.790944+00:00"
 }
