@@ -1,11 +1,5 @@
 {
   "posted": [
-    "https://medium.com/p/86fc4be89e68",
-    "https://medium.com/p/a49cca506294",
-    "https://medium.com/p/173f67677c5c",
-    "https://medium.com/p/ef9dc05dd1aa",
-    "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
-    "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
     "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
     "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
     "https://next.ink/?p=238328",
@@ -499,8 +493,14 @@
     "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
     "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
     "smashing-the-state-machine",
-    "how-to-build-custom-scanners-for-web-security-research-automation"
+    "how-to-build-custom-scanners-for-web-security-research-automation",
+    "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+    "112019 at https://www.eff.org",
+    "112024 at https://www.eff.org",
+    "112068 at https://www.eff.org",
+    "112056 at https://www.eff.org",
+    "https://next.ink/?p=239921"
   ],
   "first_run_done": false,
-  "last_run": "2026-05-30T08:25:05.792877+00:00"
+  "last_run": "2026-05-30T13:23:29.921358+00:00"
 }
