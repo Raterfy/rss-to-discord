@@ -1,15 +1,5 @@
 {
   "posted": [
-    "https://next.ink/?post_type=brief_article&p=240096",
-    "https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit",
-    "https://www.schneier.com/?p=72122",
-    "introducing-signsaboteur-forge-signed-web-tokens-with-ease",
-    "adjusting-your-http-perspective-with-bambdas",
-    "new-exotic-events-in-the-xss-cheat-sheet",
-    "a-hacking-hat-trick-previewing-three-portswigger-research-publications-coming-to-def-con-amp-black-hat-usa",
-    "fickle-pdfs-exploiting-browser-rendering-discrepancies",
-    "listen-to-the-whispers-web-timing-attacks-that-actually-work",
-    "splitting-the-email-atom",
     "gotta-cache-em-all",
     "https://www.intigriti.com/blog/business-insights/ceo-insights-holding-on-to-the-human-line-in-the-age-of-ai-adoption",
     "https://www.intigriti.com/researchers/blog/hacker-spotlight/marketer-by-day-bug-hunter-by-night-interview-with-stefan-goossens",
@@ -499,8 +489,18 @@
     "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
     "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
     "https://www.technologyreview.com/?p=1137855",
-    "https://next.ink/?p=241265"
+    "https://next.ink/?p=241265",
+    "https://bonjourlafuite.eu.org#🟢 Rolland & Girot immobilier-2026-06-01",
+    "https://bonjourlafuite.eu.org#🟢 Poulpiquet immobilier-2026-06-01",
+    "https://bonjourlafuite.eu.org#🟢 Macif-2026-06-03",
+    "https://bonjourlafuite.eu.org#🟢 Generali-2026-06-03",
+    "https://bonjourlafuite.eu.org#🟢 Intériale-2026-06-03",
+    "https://bonjourlafuite.eu.org#🟢 Mutuelle LMP-2026-06-03",
+    "https://bonjourlafuite.eu.org#🟢 Jimmy Fairly-2026-06-03",
+    "https://bonjourlafuite.eu.org#🟢 Apivia-2026-06-03",
+    "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+    "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/"
   ],
   "first_run_done": false,
-  "last_run": "2026-06-06T13:25:53.535836+00:00"
+  "last_run": "2026-06-06T19:17:37.735803+00:00"
 }
