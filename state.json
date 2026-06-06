@@ -1,10 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
-    "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
-    "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
-    "112094 at https://www.eff.org",
-    "https://www.technologyreview.com/?p=1137865",
     "https://www.technologyreview.com/?p=1137855",
     "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
     "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
@@ -499,8 +494,13 @@
     "using-form-hijacking-to-bypass-csp",
     "trace-desync-attack",
     "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-sql-injection-sqli-vulnerabilities",
-    "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-236-may-2026"
+    "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-236-may-2026",
+    "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
+    "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
+    "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
+    "https://next.ink/?post_type=brief_article&p=241273",
+    "https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us"
   ],
   "first_run_done": false,
-  "last_run": "2026-06-05T19:51:09.020811+00:00"
+  "last_run": "2026-06-06T02:51:38.556751+00:00"
 }
