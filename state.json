@@ -1,17 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
-    "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
-    "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
-    "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
-    "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
-    "111980 at https://www.eff.org",
-    "112021 at https://www.eff.org",
-    "112082 at https://www.eff.org",
-    "https://www.technologyreview.com/?p=1137584",
-    "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-    "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-    "https://krebsonsecurity.com/?p=73470",
     "https://krebsonsecurity.com/?p=73563",
     "https://krebsonsecurity.com/?p=73751",
     "https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading",
@@ -499,8 +487,20 @@
     "https://korben.info/votre-enceinte-usb-peut-etre-piratee-par-un-voisin.html",
     "https://next.ink/?p=241283",
     "https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit",
-    "https://www.schneier.com/?p=72122"
+    "https://www.schneier.com/?p=72122",
+    "https://korben.info/esp32-bit-pirate-multitool-hardware-hacking.html",
+    "introducing-signsaboteur-forge-signed-web-tokens-with-ease",
+    "adjusting-your-http-perspective-with-bambdas",
+    "new-exotic-events-in-the-xss-cheat-sheet",
+    "a-hacking-hat-trick-previewing-three-portswigger-research-publications-coming-to-def-con-amp-black-hat-usa",
+    "fickle-pdfs-exploiting-browser-rendering-discrepancies",
+    "listen-to-the-whispers-web-timing-attacks-that-actually-work",
+    "splitting-the-email-atom",
+    "gotta-cache-em-all",
+    "https://www.intigriti.com/blog/business-insights/ceo-insights-holding-on-to-the-human-line-in-the-age-of-ai-adoption",
+    "https://www.intigriti.com/researchers/blog/hacker-spotlight/marketer-by-day-bug-hunter-by-night-interview-with-stefan-goossens",
+    "https://www.intigriti.com/blog/business-insights/marketer-by-day-bug-hunter-by-night-interview-with-stefan-goossens-g0053"
   ],
   "first_run_done": false,
-  "last_run": "2026-06-07T03:35:37.799023+00:00"
+  "last_run": "2026-06-07T08:52:39.489869+00:00"
 }
