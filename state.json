@@ -1,18 +1,5 @@
 {
   "posted": [
-    "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
-    "saml-roulette-the-hacker-always-wins",
-    "document-my-pentest",
-    "drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
-    "repeater-strike-manual-testing-amplified",
-    "http1-must-die",
-    "how-to-distinguish-http-pipelining-from-request-smuggling",
-    "inline-style-exfiltration",
-    "cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
-    "websocket-turbo-intruder-unearthing-the-websocket-goldmine",
-    "introducing-http-anomaly-rank",
-    "the-fragile-lock",
-    "top-10-web-hacking-techniques-of-2025-nominations-open",
     "top-10-web-hacking-techniques-of-2025",
     "https://www.intigriti.com/researchers/blog/hacking-tools/bugquest-2026-31-days-of-broken-access-control",
     "https://korben.info/instagram-faille-support-ia-piratage-comptes.html",
@@ -499,8 +486,21 @@
     "https://medium.com/p/7a2c3640c598",
     "https://medium.com/p/153603be845a",
     "https://medium.com/p/b069a55c74ff",
-    "https://medium.com/p/6339d438b3a5"
+    "https://medium.com/p/6339d438b3a5",
+    "112012 at https://www.eff.org",
+    "112085 at https://www.eff.org",
+    "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
+    "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
+    "https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash",
+    "bypassing-wafs-with-the-phantom-version-cookie",
+    "top-10-web-hacking-techniques-of-2024-nominations-open",
+    "stealing-httponly-cookies-with-the-cookie-sandwich-technique",
+    "bypassing-character-blocklists-with-unicode-overflows",
+    "top-10-web-hacking-techniques-of-2024",
+    "shadow-repeater-ai-enhanced-manual-testing",
+    "https://projectdiscovery.io/blog/neo-agent-architecture",
+    "https://projectzero.google/2026/05/pixel-10"
   ],
   "first_run_done": false,
-  "last_run": "2026-06-07T19:19:10.311213+00:00"
+  "last_run": "2026-06-08T03:41:14.466501+00:00"
 }
