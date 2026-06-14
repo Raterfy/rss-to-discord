@@ -1,14 +1,5 @@
 {
   "posted": [
-    "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
-    "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
-    "https://next.ink/?post_type=brief_article&p=241500",
-    "https://next.ink/?p=241517",
-    "https://next.ink/?p=241434",
-    "https://next.ink/?post_type=brief_article&p=241615",
-    "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data",
-    "https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign",
-    "https://www.intigriti.com/blog/awards/intigriti-named-best-security-company-of-2026-at-the-sc-awards",
     "6914846e50a65b0001a6adf6",
     "69173b214640410001c67ccd",
     "690d7636f8f158000109cbfb",
@@ -499,8 +490,17 @@
     "https://projectdiscovery.io/blog/how-neo-found-an-ssrf-vulnerability-in-faraday-and-why-it-matters-for-every-team-that-ships-code",
     "https://projectdiscovery.io/blog/inside-the-benchmark-pp-architectures-finding-walkthroughs-and-what-each-scanner-actually-caught",
     "https://projectdiscovery.io/blog/everyone-is-finding-vulns-the-hard-part-is-proving-them",
-    "https://projectdiscovery.io/blog/neo-black-box-dast-capabilities"
+    "https://projectdiscovery.io/blog/neo-black-box-dast-capabilities",
+    "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
+    "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
+    "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
+    "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
+    "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
+    "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
+    "112038 at https://www.eff.org",
+    "https://www.technologyreview.com/?p=1137830",
+    "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/"
   ],
   "first_run_done": false,
-  "last_run": "2026-06-13T19:20:55.023991+00:00"
+  "last_run": "2026-06-14T03:42:28.044672+00:00"
 }
