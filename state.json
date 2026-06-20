@@ -1,9 +1,5 @@
 {
   "posted": [
-    "https://medium.com/p/2b606811c7ba",
-    "https://medium.com/p/0aa36b6b4121",
-    "https://medium.com/p/d1943c9a6eb4",
-    "https://medium.com/p/ff403f100504",
     "https://medium.com/p/9cc1d14b8c96",
     "https://medium.com/p/ff5208fa13eb",
     "https://medium.com/p/057c9b4b9394",
@@ -499,8 +495,12 @@
     "https://korben.info/samduo-propose-une-batterie-domestique-ultra-fine.html",
     "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
     "https://next.ink/?p=242559",
-    "https://next.ink/?p=243093"
+    "https://next.ink/?p=243093",
+    "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+    "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+    "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat",
+    "https://www.schneier.com/?p=72171"
   ],
   "first_run_done": false,
-  "last_run": "2026-06-20T13:56:12.302756+00:00"
+  "last_run": "2026-06-20T19:21:11.931930+00:00"
 }
