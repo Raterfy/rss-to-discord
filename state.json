@@ -1,14 +1,5 @@
 {
   "posted": [
-    "https://next.ink/?p=242574",
-    "https://next.ink/?post_type=brief_article&p=242598",
-    "https://next.ink/?p=242621",
-    "https://next.ink/?post_type=brief_article&p=242635",
-    "https://next.ink/?p=242609",
-    "https://next.ink/?p=242652",
-    "https://krebsonsecurity.com/?p=73768",
-    "https://www.darkreading.com/cyber-risk/ai-slop-kill-cybersecurity-storytelling-we-let-it",
-    "https://www.darkreading.com/endpoint-security/invisible-battlefield-cyber-war-reshaping-everyday-life",
     "https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery",
     "https://www.schneier.com/?p=72158",
     "https://arstechnica.com/gaming/2025/06/nintendo-warns-switch-2-gamechat-users-your-chat-is-recorded/",
@@ -499,8 +490,17 @@
     "https://next.ink/?p=243545",
     "https://next.ink/?post_type=brief_article&p=243611",
     "https://next.ink/?p=243573",
-    "https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign"
+    "https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign",
+    "https://korben.info/relay-attack-vol-voiture.html",
+    "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
+    "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
+    "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+    "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+    "https://www.technologyreview.com/?p=1139424",
+    "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+    "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/"
   ],
   "first_run_done": false,
-  "last_run": "2026-06-22T16:50:50.635920+00:00"
+  "last_run": "2026-06-22T20:43:09.927988+00:00"
 }
