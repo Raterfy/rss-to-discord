@@ -1,9 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
-    "https://www.technologyreview.com/?p=1138837",
-    "https://next.ink/?p=243629",
-    "https://next.ink/?post_type=brief_article&p=243637",
     "https://next.ink/?p=243601",
     "https://next.ink/?p=243625",
     "https://next.ink/?p=243649",
@@ -499,8 +495,12 @@
     "https://korben.info/steam-controller-retour-chargeur-autonome.html",
     "https://korben.info/youtube-game-boy-color-cartouche.html",
     "https://korben.info/image-piegee-jailbreak-ia-vision-langage.html",
-    "https://korben.info/flux-rss-korben-feedfull.html"
+    "https://korben.info/flux-rss-korben-feedfull.html",
+    "https://korben.info/qr-code-police-truetype.html",
+    "https://korben.info/fingerprint-defender-extension-firefox.html",
+    "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
+    "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html"
   ],
   "first_run_done": false,
-  "last_run": "2026-06-28T08:47:28.744461+00:00"
+  "last_run": "2026-06-28T13:40:16.037868+00:00"
 }
