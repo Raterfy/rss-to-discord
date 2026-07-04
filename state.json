@@ -1,15 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-    "112153 at https://www.eff.org",
-    "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
-    "https://next.ink/?p=244879",
-    "https://next.ink/?post_type=brief_article&p=244908",
-    "https://next.ink/?post_type=brief_article&p=244913",
-    "https://next.ink/?p=244708",
-    "https://krebsonsecurity.com/?p=73630",
-    "https://www.darkreading.com/cyberattacks-data-breaches/sweeping-credential-harvesting-heist-compromises-30k-fortinet-devices",
-    "https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain",
     "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
     "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
     "smashing-the-state-machine",
@@ -499,8 +489,18 @@
     "https://next.ink/?p=244738",
     "https://next.ink/?p=243853",
     "https://next.ink/?p=245976",
-    "https://www.darkreading.com/application-security/apple-macos-security-gap-users-disable-security-tools"
+    "https://www.darkreading.com/application-security/apple-macos-security-gap-users-disable-security-tools",
+    "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
+    "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
+    "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
+    "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
+    "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+    "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
+    "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+    "https://www.schneier.com/?p=72228",
+    "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+    "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/"
   ],
   "first_run_done": false,
-  "last_run": "2026-07-04T13:18:02.097879+00:00"
+  "last_run": "2026-07-04T19:06:34.034793+00:00"
 }
