@@ -1,13 +1,5 @@
 {
   "posted": [
-    "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
-    "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-    "smashing-the-state-machine",
-    "how-to-build-custom-scanners-for-web-security-research-automation",
-    "the-single-packet-attack-making-remote-race-conditions-local",
-    "blind-css-exfiltration",
-    "finding-that-one-weird-endpoint-with-bambdas",
-    "top-10-web-hacking-techniques-of-2023-nominations-open",
     "hiding-payloads-in-java-source-code-strings",
     "top-10-web-hacking-techniques-of-2023",
     "using-form-hijacking-to-bypass-csp",
@@ -499,8 +491,16 @@
     "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
     "https://www.schneier.com/?p=72228",
     "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
-    "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/"
+    "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
+    "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+    "112153 at https://www.eff.org",
+    "https://next.ink/?p=244879",
+    "https://next.ink/?post_type=brief_article&p=244908",
+    "https://next.ink/?post_type=brief_article&p=244913",
+    "https://next.ink/?p=244708",
+    "https://krebsonsecurity.com/?p=73630",
+    "https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain"
   ],
   "first_run_done": false,
-  "last_run": "2026-07-04T19:06:34.034793+00:00"
+  "last_run": "2026-07-05T02:47:15.200426+00:00"
 }
