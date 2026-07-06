@@ -1,14 +1,5 @@
 {
   "posted": [
-    "https://projectdiscovery.io/blog/neo-agent-architecture",
-    "69f228998ea60f00019a2f4a",
-    "https://korben.info/trump-anthropic-mythos-fable-restrictions.html",
-    "https://korben.info/facegate-verrouiller-applications-mac.html",
-    "https://korben.info/banjo-kazooie-musiques-inedites-decouvertes.html",
-    "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
-    "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
-    "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
-    "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
     "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
     "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
     "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
@@ -499,8 +490,17 @@
     "https://www.darkreading.com/cybersecurity-operations/2026-fifa-world-cup-faces-surge-cyber-threats",
     "https://www.darkreading.com/cyberattacks-data-breaches/attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure",
     "https://www.darkreading.com/vulnerabilities-threats/nist-enrichment-reductions-cve-coverage-accuracy",
-    "https://www.darkreading.com/cyber-risk/ai-generated-workflows-silent-security-disaster"
+    "https://www.darkreading.com/cyber-risk/ai-generated-workflows-silent-security-disaster",
+    "https://www.darkreading.com/cyberattacks-data-breaches/phishers-persistence-eu-asia-hospitality-orgs",
+    "https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point",
+    "https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops",
+    "https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents",
+    "https://www.darkreading.com/threat-intelligence/china-linked-group-targets-southeast-asia-critical-systems",
+    "https://www.intigriti.com/blog/business-insights/ceo-insights-holding-on-to-the-human-line-in-the-age-of-ai-adoption",
+    "https://www.intigriti.com/researchers/blog/hacker-spotlight/marketer-by-day-bug-hunter-by-night-interview-with-stefan-goossens",
+    "https://www.intigriti.com/blog/business-insights/marketer-by-day-bug-hunter-by-night-interview-with-stefan-goossens-g0053",
+    "https://projectdiscovery.io/blog/neo-vs-diy"
   ],
   "first_run_done": false,
-  "last_run": "2026-07-05T19:12:46.721544+00:00"
+  "last_run": "2026-07-06T02:53:25.376189+00:00"
 }
