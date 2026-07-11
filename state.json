@@ -1,15 +1,5 @@
 {
   "posted": [
-    "splitting-the-email-atom",
-    "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
-    "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
-    "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
-    "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
-    "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
-    "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-    "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-    "112156 at https://www.eff.org",
-    "112151 at https://www.eff.org",
     "https://www.technologyreview.com/?p=1137848",
     "https://www.technologyreview.com/?p=1140176",
     "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
@@ -499,8 +489,18 @@
     "https://medium.com/p/57037fdc9714",
     "https://medium.com/p/269e384f3fa7",
     "https://projectdiscovery.io/blog/neo-agent-architecture",
-    "69f228998ea60f00019a2f4a"
+    "69f228998ea60f00019a2f4a",
+    "https://korben.info/unitree-chien-robot-fauteuil-roulant.html",
+    "https://korben.info/openlogi-alternative-logitech-options.html",
+    "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+    "https://www.schneier.com/?p=72247",
+    "introducing-signsaboteur-forge-signed-web-tokens-with-ease",
+    "adjusting-your-http-perspective-with-bambdas",
+    "new-exotic-events-in-the-xss-cheat-sheet",
+    "a-hacking-hat-trick-previewing-three-portswigger-research-publications-coming-to-def-con-amp-black-hat-usa",
+    "fickle-pdfs-exploiting-browser-rendering-discrepancies",
+    "listen-to-the-whispers-web-timing-attacks-that-actually-work"
   ],
   "first_run_done": false,
-  "last_run": "2026-07-11T02:23:42.327161+00:00"
+  "last_run": "2026-07-11T07:50:15.401551+00:00"
 }
