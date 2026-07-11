@@ -1,11 +1,5 @@
 {
   "posted": [
-    "https://projectzero.google/2026/05/pixel-10",
-    "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
-    "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
-    "https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers",
-    "https://www.darkreading.com/threat-intelligence/safe-events-threat-intel-digital-security",
-    "https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack",
     "https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack",
     "https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks",
     "gotta-cache-em-all",
@@ -499,8 +493,14 @@
     "112151 at https://www.eff.org",
     "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
     "https://next.ink/?p=247114",
-    "splitting-the-email-atom"
+    "splitting-the-email-atom",
+    "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+    "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+    "https://www.technologyreview.com/?p=1140176",
+    "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+    "https://www.schneier.com/?p=72249",
+    "6a2b934b05367d0001863f89"
   ],
   "first_run_done": false,
-  "last_run": "2026-07-11T13:11:40.814326+00:00"
+  "last_run": "2026-07-11T18:57:38.466341+00:00"
 }
