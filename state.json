@@ -1,14 +1,5 @@
 {
   "posted": [
-    "112116 at https://www.eff.org",
-    "112127 at https://www.eff.org",
-    "112141 at https://www.eff.org",
-    "112137 at https://www.eff.org",
-    "112143 at https://www.eff.org",
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
-    "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-    "https://next.ink/?post_type=brief_article&p=246234",
-    "https://next.ink/?p=246298",
     "https://next.ink/?p=246227",
     "https://next.ink/?p=246168",
     "https://next.ink/?p=246320",
@@ -499,8 +490,17 @@
     "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
     "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
     "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
-    "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/"
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
+    "https://korben.info/swival-agent-ia-codage-modeles-locaux.html",
+    "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+    "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+    "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+    "112113 at https://www.eff.org",
+    "https://next.ink/?p=247137",
+    "https://next.ink/?p=247089",
+    "https://next.ink/?p=247099",
+    "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium"
   ],
   "first_run_done": false,
-  "last_run": "2026-07-13T02:29:27.752031+00:00"
+  "last_run": "2026-07-13T09:20:02.301982+00:00"
 }
