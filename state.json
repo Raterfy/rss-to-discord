@@ -1,8 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-    "112096 at https://www.eff.org",
-    "112113 at https://www.eff.org",
     "112116 at https://www.eff.org",
     "112127 at https://www.eff.org",
     "112141 at https://www.eff.org",
@@ -499,8 +496,11 @@
     "top-10-web-hacking-techniques-of-2024-nominations-open",
     "stealing-httponly-cookies-with-the-cookie-sandwich-technique",
     "https://korben.info/kamtape-clone-youtube-2005.html",
-    "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/"
+    "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+    "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/"
   ],
   "first_run_done": false,
-  "last_run": "2026-07-12T19:00:49.302397+00:00"
+  "last_run": "2026-07-13T02:29:27.752031+00:00"
 }
