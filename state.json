@@ -1,21 +1,5 @@
 {
   "posted": [
-    "repeater-strike-manual-testing-amplified",
-    "http1-must-die",
-    "how-to-distinguish-http-pipelining-from-request-smuggling",
-    "inline-style-exfiltration",
-    "https://medium.com/p/0f2c84223bbb",
-    "https://medium.com/p/6c1a7095f8e1",
-    "https://medium.com/p/bfaece6c3805",
-    "https://medium.com/p/90d568038414",
-    "https://medium.com/p/d951fa31f964",
-    "https://medium.com/p/3caf2a7efb45",
-    "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
-    "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
-    "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
-    "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
-    "112134 at https://www.eff.org",
-    "112146 at https://www.eff.org",
     "112147 at https://www.eff.org",
     "112177 at https://www.eff.org",
     "112180 at https://www.eff.org",
@@ -499,8 +483,24 @@
     "https://next.ink/?post_type=brief_article&p=247209",
     "https://krebsonsecurity.com/?p=73982",
     "https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack",
-    "https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security"
+    "https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security",
+    "https://korben.info/inky-bird-frame-raspberry-pi-eink-oiseaux.html",
+    "https://korben.info/lemulation-de-la-ps5-fait-ses-premiers-pas-alors-que-la-console-est-encore-en-rayon.html",
+    "https://korben.info/apple-rachete-siglens-loutil-open-source-de-surveillance-dapplications.html",
+    "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
+    "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
+    "https://next.ink/?p=247210",
+    "https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat",
+    "https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks",
+    "https://www.schneier.com/?p=72244",
+    "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
+    "bypassing-character-blocklists-with-unicode-overflows",
+    "top-10-web-hacking-techniques-of-2024",
+    "shadow-repeater-ai-enhanced-manual-testing",
+    "saml-roulette-the-hacker-always-wins",
+    "document-my-pentest",
+    "drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code"
   ],
   "first_run_done": false,
-  "last_run": "2026-07-13T19:19:50.614025+00:00"
+  "last_run": "2026-07-14T02:09:05.041902+00:00"
 }
