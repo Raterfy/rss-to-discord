@@ -1,19 +1,5 @@
 {
   "posted": [
-    "112147 at https://www.eff.org",
-    "112177 at https://www.eff.org",
-    "112180 at https://www.eff.org",
-    "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
-    "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
-    "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
-    "https://next.ink/?p=246434",
-    "https://next.ink/?p=246515",
-    "https://next.ink/?post_type=brief_article&p=246538",
-    "https://krebsonsecurity.com/?p=73832",
-    "https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix",
-    "https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os",
-    "https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows",
-    "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
     "cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
     "websocket-turbo-intruder-unearthing-the-websocket-goldmine",
     "introducing-http-anomaly-rank",
@@ -499,8 +485,22 @@
     "shadow-repeater-ai-enhanced-manual-testing",
     "saml-roulette-the-hacker-always-wins",
     "document-my-pentest",
-    "drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code"
+    "drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
+    "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
+    "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
+    "112134 at https://www.eff.org",
+    "112146 at https://www.eff.org",
+    "repeater-strike-manual-testing-amplified",
+    "http1-must-die",
+    "how-to-distinguish-http-pipelining-from-request-smuggling",
+    "inline-style-exfiltration",
+    "https://medium.com/p/0f2c84223bbb",
+    "https://medium.com/p/6c1a7095f8e1",
+    "https://medium.com/p/bfaece6c3805",
+    "https://medium.com/p/90d568038414",
+    "https://medium.com/p/d951fa31f964",
+    "https://medium.com/p/3caf2a7efb45"
   ],
   "first_run_done": false,
-  "last_run": "2026-07-14T02:09:05.041902+00:00"
+  "last_run": "2026-07-14T07:57:44.677224+00:00"
 }
