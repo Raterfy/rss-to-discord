@@ -1,17 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
-    "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-    "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-    "112175 at https://www.eff.org",
-    "112187 at https://www.eff.org",
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-    "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
-    "https://next.ink/?p=246934",
-    "https://next.ink/?p=246941",
-    "https://next.ink/?p=244490",
-    "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
-    "https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage",
     "https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition",
     "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems",
     "https://www.schneier.com/?p=72232",
@@ -499,8 +487,20 @@
     "https://www.schneier.com/?p=72330",
     "https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/",
     "https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/",
-    "https://arstechnica.com/security/2025/07/how-do-hackers-get-passwords-sometimes-they-just-ask/"
+    "https://arstechnica.com/security/2025/07/how-do-hackers-get-passwords-sometimes-they-just-ask/",
+    "https://bonjourlafuite.eu.org#🟢 ENS Paris-Saclay-2026-07-07",
+    "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+    "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+    "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
+    "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
+    "https://krebsonsecurity.com/?p=73876",
+    "https://www.darkreading.com/cyberattacks-data-breaches/goddamn-ransomware-byovd-smite-companies",
+    "https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom",
+    "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
+    "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters",
+    "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
+    "https://www.schneier.com/?p=72271"
   ],
   "first_run_done": false,
-  "last_run": "2026-07-16T19:04:48.900871+00:00"
+  "last_run": "2026-07-17T02:23:48.342833+00:00"
 }
