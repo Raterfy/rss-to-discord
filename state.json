@@ -1,15 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-    "112156 at https://www.eff.org",
-    "112151 at https://www.eff.org",
-    "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-    "https://next.ink/?p=247114",
-    "splitting-the-email-atom",
-    "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-    "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-    "https://www.technologyreview.com/?p=1140176",
-    "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
     "https://www.schneier.com/?p=72249",
     "6a2b934b05367d0001863f89",
     "https://bonjourlafuite.eu.org#🟢 Fédération Française d’Équitation-2026-07-11",
@@ -499,8 +489,18 @@
     "https://medium.com/p/2e0169207286",
     "https://medium.com/p/cfa189643f45",
     "https://projectdiscovery.io/blog/neo-agent-architecture",
-    "6a4418a8af74350001707638"
+    "6a4418a8af74350001707638",
+    "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
+    "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+    "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+    "introducing-signsaboteur-forge-signed-web-tokens-with-ease",
+    "adjusting-your-http-perspective-with-bambdas",
+    "new-exotic-events-in-the-xss-cheat-sheet",
+    "a-hacking-hat-trick-previewing-three-portswigger-research-publications-coming-to-def-con-amp-black-hat-usa",
+    "fickle-pdfs-exploiting-browser-rendering-discrepancies",
+    "listen-to-the-whispers-web-timing-attacks-that-actually-work",
+    "69f228998ea60f00019a2f4a"
   ],
   "first_run_done": false,
-  "last_run": "2026-07-18T13:07:20.042144+00:00"
+  "last_run": "2026-07-18T18:58:51.081511+00:00"
 }
