@@ -1,21 +1,5 @@
 {
   "posted": [
-    "https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work",
-    "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
-    "https://www.schneier.com/?p=72330",
-    "https://www.schneier.com/?p=72344",
-    "https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/",
-    "https://www.intigriti.com/blog/business-insights/impact-of-the-lethal-trifecta-on-organizations-today",
-    "https://bonjourlafuite.eu.org#🟢 ENS Paris-Saclay-2026-07-07",
-    "https://korben.info/mon-ip-korben-nouvelle-version.html",
-    "https://korben.info/windows-11-point-in-time-restore.html",
-    "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
-    "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
-    "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-    "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-    "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-    "112175 at https://www.eff.org",
-    "112187 at https://www.eff.org",
     "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
     "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
     "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
@@ -499,8 +483,24 @@
     "6a28b355867aa700015a7117",
     "6a4692c98a5c170001328b86",
     "https://projectzero.google/2026/02/windows-administrator-protection",
-    "https://projectzero.google/2026/03/mutational-grammar-fuzzing"
+    "https://projectzero.google/2026/03/mutational-grammar-fuzzing",
+    "https://bonjourlafuite.eu.org#🟢 CapiFrance-2026-06-29",
+    "112172 at https://www.eff.org",
+    "112174 at https://www.eff.org",
+    "112182 at https://www.eff.org",
+    "112205 at https://www.eff.org",
+    "https://www.technologyreview.com/?p=1140346",
+    "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+    "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+    "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
+    "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
+    "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
+    "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
+    "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
+    "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-insecure-cookie-policies",
+    "https://www.intigriti.com/blog/business-insights/reconnaissance-for-exposure-management-why-context-matters-in-the-ai-era"
   ],
   "first_run_done": false,
-  "last_run": "2026-07-29T19:10:36.006259+00:00"
+  "last_run": "2026-07-30T02:04:12.102052+00:00"
 }
