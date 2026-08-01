@@ -1,13 +1,5 @@
 {
   "posted": [
-    "https://next.ink/?post_type=brief_article&p=248963",
-    "https://next.ink/?post_type=brief_article&p=249013",
-    "https://next.ink/?p=248829",
-    "https://next.ink/?p=249039",
-    "https://next.ink/?p=248966",
-    "https://medium.com/p/0ef6b45548d7",
-    "https://medium.com/p/ce27212d11b0",
-    "https://medium.com/p/f0dfead7059e",
     "https://medium.com/p/d53ac4e6a880",
     "https://medium.com/p/b945842678e2",
     "https://medium.com/p/0c877cc3ee07",
@@ -499,8 +491,16 @@
     "69f228998ea60f00019a2f4a",
     "6a2b934b05367d0001863f89",
     "6a4418a8af74350001707638",
-    "https://projectzero.google/2026/05/pixel-10"
+    "https://projectzero.google/2026/05/pixel-10",
+    "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+    "https://next.ink/?p=249265",
+    "introducing-the-url-validation-bypass-cheat-sheet",
+    "concealing-payloads-in-url-credentials",
+    "new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
+    "bypassing-wafs-with-the-phantom-version-cookie",
+    "top-10-web-hacking-techniques-of-2024-nominations-open",
+    "stealing-httponly-cookies-with-the-cookie-sandwich-technique"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-01T08:14:36.396307+00:00"
+  "last_run": "2026-08-01T13:12:26.475971+00:00"
 }
