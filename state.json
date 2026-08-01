@@ -1,11 +1,5 @@
 {
   "posted": [
-    "https://medium.com/p/d53ac4e6a880",
-    "https://medium.com/p/b945842678e2",
-    "https://medium.com/p/0c877cc3ee07",
-    "https://medium.com/p/2e2894c52148",
-    "https://medium.com/p/a10360eba93f",
-    "https://medium.com/p/0f30563c58f7",
     "https://medium.com/p/24b15eee4deb",
     "https://korben.info/rapid-mlx-installation-macos.html",
     "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
@@ -499,8 +493,14 @@
     "new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
     "bypassing-wafs-with-the-phantom-version-cookie",
     "top-10-web-hacking-techniques-of-2024-nominations-open",
-    "stealing-httponly-cookies-with-the-cookie-sandwich-technique"
+    "stealing-httponly-cookies-with-the-cookie-sandwich-technique",
+    "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+    "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+    "https://next.ink/?post_type=brief_article&p=249013",
+    "https://next.ink/?p=248829",
+    "https://next.ink/?p=249039",
+    "https://next.ink/?p=248966"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-01T13:12:26.475971+00:00"
+  "last_run": "2026-08-01T19:03:38.640890+00:00"
 }
