@@ -1,6 +1,5 @@
 {
   "posted": [
-    "https://medium.com/p/24b15eee4deb",
     "https://korben.info/rapid-mlx-installation-macos.html",
     "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
     "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
@@ -499,8 +498,9 @@
     "https://next.ink/?post_type=brief_article&p=249013",
     "https://next.ink/?p=248829",
     "https://next.ink/?p=249039",
-    "https://next.ink/?p=248966"
+    "https://next.ink/?p=248966",
+    "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-02T13:13:41.154607+00:00"
+  "last_run": "2026-08-02T19:04:28.588781+00:00"
 }
