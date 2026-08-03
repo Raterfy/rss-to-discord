@@ -1,15 +1,5 @@
 {
   "posted": [
-    "https://next.ink/?post_type=brief_article&p=249080",
-    "https://next.ink/?post_type=brief_article&p=249083",
-    "https://www.schneier.com/?p=72346",
-    "https://medium.com/p/19c048fea9b1",
-    "https://medium.com/p/63dd82874875",
-    "https://medium.com/p/6773df9fce72",
-    "https://medium.com/p/0c0ac8c335f2",
-    "https://medium.com/p/dbefc9c3e440",
-    "https://medium.com/p/a135093b247d",
-    "https://korben.info/open-archiver-archivage-emails-self-hosted.html",
     "https://korben.info/gitwand-client-git-open-source.html",
     "https://korben.info/pascal-editor-3d-architecture-web-2.html",
     "https://korben.info/firefox-nouveau-design-nightly.html",
@@ -499,8 +489,18 @@
     "https://next.ink/?p=249819",
     "https://next.ink/?post_type=brief_article&p=249846",
     "https://next.ink/?p=249778",
-    "https://next.ink/?p=249855"
+    "https://next.ink/?p=249855",
+    "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
+    "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
+    "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+    "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+    "https://www.technologyreview.com/?p=1140668",
+    "https://www.technologyreview.com/?p=1139667",
+    "https://www.technologyreview.com/?p=1140724",
+    "https://next.ink/?p=249898",
+    "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
+    "https://www.schneier.com/?p=72422"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-03T09:37:25.173795+00:00"
+  "last_run": "2026-08-03T14:31:52.590504+00:00"
 }
