@@ -1,16 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
-    "112141 at https://www.eff.org",
-    "112137 at https://www.eff.org",
-    "112143 at https://www.eff.org",
-    "https://www.technologyreview.com/?p=1140655",
-    "https://www.technologyreview.com/?p=1140668",
-    "https://www.technologyreview.com/?p=1139667",
-    "https://www.technologyreview.com/?p=1140724",
-    "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
-    "https://next.ink/?post_type=brief_article&p=247736",
-    "https://next.ink/?p=249061",
     "https://next.ink/?post_type=brief_article&p=249080",
     "https://next.ink/?post_type=brief_article&p=249083",
     "https://www.schneier.com/?p=72346",
@@ -499,8 +488,19 @@
     "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
     "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
     "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
-    "https://www.darkreading.com/cyber-risk/cybersecurity-then-now"
+    "https://www.darkreading.com/cyber-risk/cybersecurity-then-now",
+    "https://korben.info/un-zero-mal-interprete-dans-le-firmware-coldcard-a-rendu-les-cles-bitcoin-devinables-pendant-cinq-ans.html",
+    "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+    "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+    "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+    "https://www.technologyreview.com/?p=1141009",
+    "https://next.ink/?post_type=brief_article&p=249818",
+    "https://next.ink/?post_type=brief_article&p=249836",
+    "https://next.ink/?p=249819",
+    "https://next.ink/?post_type=brief_article&p=249846",
+    "https://next.ink/?p=249778",
+    "https://next.ink/?p=249855"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-03T02:31:08.434008+00:00"
+  "last_run": "2026-08-03T09:37:25.173795+00:00"
 }
