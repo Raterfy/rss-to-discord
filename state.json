@@ -1,8 +1,5 @@
 {
   "posted": [
-    "https://korben.info/rapid-mlx-installation-macos.html",
-    "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-    "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
     "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
     "112141 at https://www.eff.org",
     "112137 at https://www.eff.org",
@@ -499,8 +496,11 @@
     "https://next.ink/?p=248829",
     "https://next.ink/?p=249039",
     "https://next.ink/?p=248966",
-    "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/"
+    "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+    "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+    "https://www.darkreading.com/cyber-risk/cybersecurity-then-now"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-02T19:04:28.588781+00:00"
+  "last_run": "2026-08-03T02:31:08.434008+00:00"
 }
