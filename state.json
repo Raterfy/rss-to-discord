@@ -1,18 +1,5 @@
 {
   "posted": [
-    "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
-    "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
-    "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
-    "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
-    "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
-    "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
-    "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "bypassing-character-blocklists-with-unicode-overflows",
-    "top-10-web-hacking-techniques-of-2024",
-    "shadow-repeater-ai-enhanced-manual-testing",
-    "saml-roulette-the-hacker-always-wins",
-    "document-my-pentest",
-    "https://korben.info/cyberdeck-lunchbox-mask-raspberry-pi.html",
     "https://korben.info/glm-kimi-modeles-chinois-identite-claude.html",
     "https://korben.info/morrowind-navigateur-webassembly-openmw.html",
     "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
@@ -499,8 +486,21 @@
     "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
     "https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles",
     "https://www.intigriti.com/blog/business-insights/why-security-teams-miss-what-attackers-see",
-    "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium"
+    "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium",
+    "https://korben.info/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas.html",
+    "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+    "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+    "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+    "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+    "112221 at https://www.eff.org",
+    "https://next.ink/?p=249950",
+    "https://next.ink/?p=250057",
+    "https://next.ink/?p=250140",
+    "https://next.ink/?p=250187",
+    "https://krebsonsecurity.com/?p=73982",
+    "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls",
+    "https://www.schneier.com/?p=72386"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-04T08:31:05.533465+00:00"
+  "last_run": "2026-08-04T14:03:07.625628+00:00"
 }
