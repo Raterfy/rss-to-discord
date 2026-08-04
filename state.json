@@ -1,21 +1,5 @@
 {
   "posted": [
-    "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
-    "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
-    "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
-    "https://next.ink/?p=249059",
-    "https://next.ink/?post_type=brief_article&p=249148",
-    "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster",
-    "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
-    "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
-    "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
-    "https://www.schneier.com/?p=72356",
-    "https://www.intigriti.com/blog/business-insights/why-security-teams-miss-what-attackers-see",
-    "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium",
-    "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-    "112134 at https://www.eff.org",
-    "112146 at https://www.eff.org",
-    "112201 at https://www.eff.org",
     "112221 at https://www.eff.org",
     "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
     "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
@@ -499,8 +483,24 @@
     "https://next.ink/?p=249861",
     "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
     "https://www.schneier.com/?p=72417",
-    "https://projectdiscovery.io/blog/watching-agents-work-a-behavioral-audit-of-offensive-security-llm-runs"
+    "https://projectdiscovery.io/blog/watching-agents-work-a-behavioral-audit-of-offensive-security-llm-runs",
+    "112160 at https://www.eff.org",
+    "112161 at https://www.eff.org",
+    "112163 at https://www.eff.org",
+    "112190 at https://www.eff.org",
+    "112207 at https://www.eff.org",
+    "112241 at https://www.eff.org",
+    "112238 at https://www.eff.org",
+    "112243 at https://www.eff.org",
+    "112244 at https://www.eff.org",
+    "https://www.technologyreview.com/?p=1140836",
+    "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+    "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
+    "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+    "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
+    "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection",
+    "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-03T19:26:26.235331+00:00"
+  "last_run": "2026-08-04T02:10:41.222582+00:00"
 }
