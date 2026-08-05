@@ -1,16 +1,5 @@
 {
   "posted": [
-    "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-    "https://next.ink/?p=249180",
-    "https://next.ink/?post_type=brief_article&p=249252",
-    "https://next.ink/?post_type=brief_article&p=249261",
-    "https://next.ink/?p=248438",
-    "https://next.ink/?p=249315",
-    "https://krebsonsecurity.com/?p=73832",
-    "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
-    "https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps",
-    "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
-    "https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies",
     "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
     "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
     "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
@@ -499,8 +488,19 @@
     "repeater-strike-manual-testing-amplified",
     "http1-must-die",
     "how-to-distinguish-http-pipelining-from-request-smuggling",
-    "inline-style-exfiltration"
+    "inline-style-exfiltration",
+    "https://korben.info/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985.html",
+    "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+    "112196 at https://www.eff.org",
+    "112212 at https://www.eff.org",
+    "https://www.technologyreview.com/?p=1140853",
+    "https://next.ink/?post_type=brief_article&p=250225",
+    "https://next.ink/?post_type=brief_article&p=250215",
+    "https://next.ink/?p=250217",
+    "https://next.ink/?post_type=brief_article&p=250212",
+    "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
+    "https://medium.com/p/f5b8bf96f1ba"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-05T02:09:44.191688+00:00"
+  "last_run": "2026-08-05T08:30:31.936288+00:00"
 }
