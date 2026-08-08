@@ -1,18 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
-    "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
-    "112216 at https://www.eff.org",
-    "https://www.technologyreview.com/?p=1140927",
-    "https://next.ink/?p=249545",
-    "https://krebsonsecurity.com/?p=73876",
-    "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters",
-    "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
-    "https://www.schneier.com/?p=72371",
-    "https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/",
-    "https://arstechnica.com/security/2025/07/how-do-hackers-get-passwords-sometimes-they-just-ask/",
-    "https://korben.info/underscore-skyrim-innocent-prison.html",
-    "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
     "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
     "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
     "112186 at https://www.eff.org",
@@ -499,8 +486,21 @@
     "6a28b355867aa700015a7117",
     "6a4692c98a5c170001328b86",
     "https://projectzero.google/2026/02/windows-administrator-protection",
-    "https://projectzero.google/2026/03/mutational-grammar-fuzzing"
+    "https://projectzero.google/2026/03/mutational-grammar-fuzzing",
+    "https://bonjourlafuite.eu.org#🟢 ENS Paris-Saclay-2026-07-07",
+    "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
+    "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+    "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+    "112175 at https://www.eff.org",
+    "112187 at https://www.eff.org",
+    "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
+    "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+    "https://next.ink/?p=249525",
+    "https://www.schneier.com/?p=72400",
+    "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-insecure-cookie-policies",
+    "https://www.intigriti.com/blog/business-insights/reconnaissance-for-exposure-management-why-context-matters-in-the-ai-era",
+    "https://www.intigriti.com/blog/business-insights/impact-of-the-lethal-trifecta-on-organizations-today"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-07T18:51:16.918682+00:00"
+  "last_run": "2026-08-08T01:18:27.205984+00:00"
 }
