@@ -1,12 +1,5 @@
 {
   "posted": [
-    "112183 at https://www.eff.org",
-    "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
-    "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
-    "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
-    "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
-    "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
-    "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
     "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
     "https://next.ink/?p=249591",
     "https://next.ink/?post_type=brief_article&p=249620",
@@ -499,8 +492,15 @@
     "https://www.intigriti.com/blog/business-insights/impact-of-the-lethal-trifecta-on-organizations-today",
     "112216 at https://www.eff.org",
     "https://www.technologyreview.com/?p=1140927",
-    "https://krebsonsecurity.com/?p=73876"
+    "https://krebsonsecurity.com/?p=73876",
+    "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+    "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+    "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+    "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+    "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+    "112186 at https://www.eff.org",
+    "https://next.ink/?p=249289"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-08T06:44:26.298472+00:00"
+  "last_run": "2026-08-08T12:40:05.328879+00:00"
 }
