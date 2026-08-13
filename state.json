@@ -1,21 +1,5 @@
 {
   "posted": [
-    "https://next.ink/?p=250323",
-    "https://next.ink/?p=250346",
-    "https://next.ink/?p=250358",
-    "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
-    "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
-    "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
-    "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack",
-    "https://www.intigriti.com/blog/business-insights/why-your-existing-controls-may-miss-ai-poisoning-attacks",
-    "https://medium.com/p/abffd039406c",
-    "112198 at https://www.eff.org",
-    "112218 at https://www.eff.org",
-    "112222 at https://www.eff.org",
-    "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-    "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-    "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-    "https://krebsonsecurity.com/?p=73991",
     "https://krebsonsecurity.com/?p=74000",
     "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
     "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
@@ -499,8 +483,24 @@
     "https://next.ink/?post_type=brief_article&p=251494",
     "https://krebsonsecurity.com/?p=73832",
     "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
-    "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce"
+    "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
+    "https://korben.info/twitch-desactiver-entrainement-ia-amazon.html",
+    "https://korben.info/shieldbreak-zero-day-defender-microsoft.html",
+    "https://korben.info/vlc-lent-windows-defender-cache-plugins.html",
+    "https://korben.info/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit.html",
+    "https://korben.info/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes.html",
+    "https://korben.info/grok-bot-debarque-en-beta.html",
+    "https://www.technologyreview.com/?p=1141410",
+    "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+    "https://next.ink/?p=251549",
+    "https://next.ink/?p=251382",
+    "https://next.ink/?p=250916",
+    "https://next.ink/?p=251582",
+    "https://next.ink/?p=251642",
+    "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
+    "https://www.schneier.com/?p=72381",
+    "https://www.schneier.com/?p=72463"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-13T07:21:27.056467+00:00"
+  "last_run": "2026-08-13T13:02:25.747090+00:00"
 }
