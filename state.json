@@ -1,18 +1,5 @@
 {
   "posted": [
-    "https://www.schneier.com/?p=72381",
-    "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-    "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-    "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-    "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
-    "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-    "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-    "112165 at https://www.eff.org",
-    "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
-    "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
-    "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
-    "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-    "https://next.ink/?p=250325",
     "https://next.ink/?p=250323",
     "https://next.ink/?p=250346",
     "https://next.ink/?p=250358",
@@ -499,8 +486,21 @@
     "http1-must-die",
     "how-to-distinguish-http-pipelining-from-request-smuggling",
     "inline-style-exfiltration",
-    "https://www.intigriti.com/blog/news/intigriti-named-new-provider-for-adobes-bug-bounty-program"
+    "https://www.intigriti.com/blog/news/intigriti-named-new-provider-for-adobes-bug-bounty-program",
+    "https://korben.info/un-developpeur-fait-tourner-les-cinematiques-de-command-conquer-sur-un-atari-st-de-1985.html",
+    "https://korben.info/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir.html",
+    "https://korben.info/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia.html",
+    "https://korben.info/votre-identite-vaut-de-lor.html",
+    "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+    "112196 at https://www.eff.org",
+    "112212 at https://www.eff.org",
+    "https://www.technologyreview.com/?p=1140853",
+    "https://next.ink/?p=251538",
+    "https://next.ink/?post_type=brief_article&p=251494",
+    "https://krebsonsecurity.com/?p=73832",
+    "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
+    "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-13T01:42:35.832080+00:00"
+  "last_run": "2026-08-13T07:21:27.056467+00:00"
 }
