@@ -1,17 +1,5 @@
 {
   "posted": [
-    "https://projectdiscovery.io/blog/announcing-the-projectdiscovery-oss-bounty-program",
-    "https://projectdiscovery.io/blog/ai-code-review-vs-neo",
-    "https://projectdiscovery.io/blog/how-neo-found-an-ssrf-vulnerability-in-faraday-and-why-it-matters-for-every-team-that-ships-code",
-    "https://bonjourlafuite.eu.org#🟢 Spiko-2026-07-02",
-    "https://bonjourlafuite.eu.org#🟢 Trenitalia-2026-07-03",
-    "https://bonjourlafuite.eu.org#🟢 Espaces Atypiques-2026-07-06",
-    "https://korben.info/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine.html",
-    "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
-    "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-    "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
-    "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
-    "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
     "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
     "112214 at https://www.eff.org",
     "https://next.ink/?p=250414",
@@ -499,8 +487,20 @@
     "websocket-turbo-intruder-unearthing-the-websocket-goldmine",
     "introducing-http-anomaly-rank",
     "the-fragile-lock",
-    "crlf-powered-desync-attacks"
+    "crlf-powered-desync-attacks",
+    "112162 at https://www.eff.org",
+    "112178 at https://www.eff.org",
+    "112228 at https://www.eff.org",
+    "https://next.ink/?p=251713",
+    "https://next.ink/?p=251651",
+    "top-10-web-hacking-techniques-of-2025-nominations-open",
+    "top-10-web-hacking-techniques-of-2025",
+    "https://www.intigriti.com/blog/awards/intigriti-named-best-security-company-of-2026-at-the-sc-awards",
+    "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-237-june-2026",
+    "https://projectdiscovery.io/blog/surfacing-the-real-attack-surface-advances-in-asset-discovery",
+    "https://projectdiscovery.io/blog/new-report-state-of-appsec-2026-security-at-engineering-speed",
+    "6a7ebcc42c892a00015d8efe"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-14T01:40:47.489636+00:00"
+  "last_run": "2026-08-14T07:18:47.573043+00:00"
 }
