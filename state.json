@@ -1,20 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
-    "112214 at https://www.eff.org",
-    "https://next.ink/?p=250414",
-    "https://next.ink/?post_type=brief_article&p=250556",
-    "https://next.ink/?p=250391",
-    "https://www.schneier.com/?p=72376",
-    "https://www.intigriti.com/blog/business-insights/rethinking-cvss-scoring-systems-amidst-ai-safety-and-security",
-    "https://projectdiscovery.io/blog/inside-the-benchmark-pp-architectures-finding-walkthroughs-and-what-each-scanner-actually-caught",
-    "https://projectdiscovery.io/blog/everyone-is-finding-vulns-the-hard-part-is-proving-them",
-    "https://projectdiscovery.io/blog/neo-black-box-dast-capabilities",
-    "https://projectdiscovery.io/blog/the-vulnerability-curve-bent-with-the-ai-curve",
-    "https://projectdiscovery.io/blog/introducing-internal-network-scanning-see-your-network-the-way-an-attacker-inside-it-would",
-    "697cd33bfabc060001a16103",
-    "699f52782905d20001da6f79",
-    "69a6eb68b1e9ba000140cb74",
     "69b9cf8461eca100016f2b6b",
     "69bc576e61eca100016f2c62",
     "69c8147c20fa560001198f9f",
@@ -499,8 +484,23 @@
     "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-237-june-2026",
     "https://projectdiscovery.io/blog/surfacing-the-real-attack-surface-advances-in-asset-discovery",
     "https://projectdiscovery.io/blog/new-report-state-of-appsec-2026-security-at-engineering-speed",
-    "6a7ebcc42c892a00015d8efe"
+    "6a7ebcc42c892a00015d8efe",
+    "https://korben.info/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine.html",
+    "https://korben.info/les-impots-se-sont-fait-voler-les-donnees-de-680-000-contribuables.html",
+    "https://korben.info/implant-boeing-737-port-maintenance-arinc-429.html",
+    "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
+    "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+    "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
+    "https://next.ink/?p=251697",
+    "https://next.ink/?p=251725",
+    "https://next.ink/?post_type=brief_article&p=251731",
+    "https://krebsonsecurity.com/?p=74105",
+    "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
+    "https://www.schneier.com/?p=72466",
+    "https://projectdiscovery.io/blog/announcing-the-projectdiscovery-oss-bounty-program",
+    "https://projectdiscovery.io/blog/ai-code-review-vs-neo",
+    "https://projectdiscovery.io/blog/how-neo-found-an-ssrf-vulnerability-in-faraday-and-why-it-matters-for-every-team-that-ships-code"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-14T07:18:47.573043+00:00"
+  "last_run": "2026-08-14T12:58:42.862560+00:00"
 }
