@@ -1,11 +1,5 @@
 {
   "posted": [
-    "https://www.schneier.com/?p=72397",
-    "https://projectdiscovery.io/blog/how-we-cut-llm-cost-with-prompt-caching",
-    "https://projectdiscovery.io/blog/the-trust-gap-behind-the-ai-coding-boom-what-200-security-practitioners-just-told-us",
-    "https://projectdiscovery.io/blog/red-teaming-cloud-infrastructure-with-neo",
-    "https://projectdiscovery.io/blog/continuous-pr-security-review",
-    "https://projectdiscovery.io/blog/oh-my-rogue-agent",
     "https://bonjourlafuite.eu.org#🟢 CapiFrance-2026-06-29",
     "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
     "112172 at https://www.eff.org",
@@ -499,8 +493,14 @@
     "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
     "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
     "https://next.ink/?p=249308",
-    "https://www.intigriti.com/blog/product-updates/introducing-insights-self-serve-reporting-for-security-teams"
+    "https://www.intigriti.com/blog/product-updates/introducing-insights-self-serve-reporting-for-security-teams",
+    "https://korben.info/holeberry-pi-hole-barre-menus-macos.html",
+    "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+    "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+    "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+    "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+    "https://next.ink/?p=251856"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-15T12:30:24.480064+00:00"
+  "last_run": "2026-08-15T18:23:46.947076+00:00"
 }
