@@ -1,6 +1,5 @@
 {
   "posted": [
-    "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
     "https://next.ink/?p=250434",
     "https://next.ink/?p=250837",
     "https://next.ink/?post_type=brief_article&p=250867",
@@ -499,8 +498,9 @@
     "https://projectdiscovery.io/blog/oh-my-rogue-agent",
     "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
     "112182 at https://www.eff.org",
-    "112205 at https://www.eff.org"
+    "112205 at https://www.eff.org",
+    "https://korben.info/winpodx.html"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-16T06:33:26.353886+00:00"
+  "last_run": "2026-08-16T12:32:00.243169+00:00"
 }
