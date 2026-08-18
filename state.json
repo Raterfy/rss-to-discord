@@ -1,15 +1,5 @@
 {
   "posted": [
-    "https://www.darkreading.com/cyber-risk/sherlock-holmes-was-the-og-social-engineer",
-    "https://www.darkreading.com/application-security/outdated-cybercrime-laws-security-researchers-risk",
-    "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
-    "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
-    "https://arstechnica.com/gadgets/2025/09/google-says-reports-of-massive-gmail-data-breach-are-entirely-false/",
-    "https://arstechnica.com/security/2025/09/former-whatsapp-security-boss-sues-meta-for-systemic-cybersecurity-failures/",
-    "https://arstechnica.com/gadgets/2025/10/google-confirms-android-dev-verification-will-have-free-and-paid-tiers-no-public-list-of-devs/",
-    "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-    "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
-    "https://www.intigriti.com/researchers/blog/hacking-tools/how-to-appeal-a-bug-bounty-submission",
     "https://bonjourlafuite.eu.org#🟢 Steam-2026-08-10",
     "https://bonjourlafuite.eu.org#🟢 Intermarché-2026-08-10",
     "112189 at https://www.eff.org",
@@ -499,8 +489,18 @@
     "https://medium.com/p/062dfc269d69",
     "https://medium.com/p/4cd1f708eb3c",
     "https://medium.com/p/a6a1caa9438a",
-    "https://medium.com/p/99df009baf37"
+    "https://medium.com/p/99df009baf37",
+    "https://bonjourlafuite.eu.org#🟢 France Casse-2026-07-22",
+    "112206 at https://www.eff.org",
+    "112208 at https://www.eff.org",
+    "112209 at https://www.eff.org",
+    "112251 at https://www.eff.org",
+    "https://next.ink/?post_type=brief_article&p=252000",
+    "https://next.ink/?post_type=brief_article&p=252009",
+    "https://krebsonsecurity.com/?p=74047",
+    "https://www.schneier.com/?p=72335",
+    "https://www.intigriti.com/blog/news/introducing-crowdrecon"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-18T01:01:56.359206+00:00"
+  "last_run": "2026-08-18T06:37:05.750270+00:00"
 }
