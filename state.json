@@ -1,14 +1,5 @@
 {
   "posted": [
-    "https://medium.com/p/8984cd1806f4",
-    "https://medium.com/p/e878ce13c189",
-    "https://medium.com/p/062dfc269d69",
-    "https://medium.com/p/4cd1f708eb3c",
-    "https://medium.com/p/a6a1caa9438a",
-    "https://medium.com/p/99df009baf37",
-    "https://bonjourlafuite.eu.org#🟢 France Casse-2026-07-22",
-    "112206 at https://www.eff.org",
-    "112208 at https://www.eff.org",
     "112209 at https://www.eff.org",
     "112251 at https://www.eff.org",
     "https://next.ink/?post_type=brief_article&p=252000",
@@ -499,8 +490,17 @@
     "6a28b355867aa700015a7117",
     "6a4692c98a5c170001328b86",
     "https://projectzero.google/2026/02/windows-administrator-protection",
-    "https://projectzero.google/2026/03/mutational-grammar-fuzzing"
+    "https://projectzero.google/2026/03/mutational-grammar-fuzzing",
+    "https://www.technologyreview.com/?p=1142200",
+    "https://next.ink/?p=249402",
+    "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
+    "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
+    "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
+    "https://medium.com/p/ecfe395cf94a",
+    "https://medium.com/p/3da2d1396a23",
+    "https://medium.com/p/059061b7973e",
+    "https://medium.com/p/fba44d152d5b"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-22T06:33:30.056158+00:00"
+  "last_run": "2026-08-22T12:31:42.066546+00:00"
 }
