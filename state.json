@@ -1,19 +1,5 @@
 {
   "posted": [
-    "blind-css-exfiltration",
-    "finding-that-one-weird-endpoint-with-bambdas",
-    "top-10-web-hacking-techniques-of-2023-nominations-open",
-    "hiding-payloads-in-java-source-code-strings",
-    "top-10-web-hacking-techniques-of-2023",
-    "using-form-hijacking-to-bypass-csp",
-    "https://www.intigriti.com/blog/business-insights/securing-the-uncharted-territories-of-ai-systems-a-discussion-with-leo-racanelli",
-    "https://projectdiscovery.io/blog/nuclei-templates-april-2026",
-    "https://korben.info/quake-shareware-cd-rom-tous-les-jeux-id-chiffres.html",
-    "https://korben.info/claude-code-driver-imprimante-hp-macos.html",
-    "https://korben.info/cartes-bancaires-expirees-reactivees-paiements.html",
-    "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-    "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-    "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
     "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
     "112232 at https://www.eff.org",
     "https://next.ink/?p=252219",
@@ -499,8 +485,22 @@
     "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
     "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
     "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-238-july-2026",
-    "6a42bf6d3e3ea80001f3c8b4"
+    "6a42bf6d3e3ea80001f3c8b4",
+    "https://bonjourlafuite.eu.org#🟢 LCommerce-2026-08-29",
+    "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+    "112234 at https://www.eff.org",
+    "112235 at https://www.eff.org",
+    "112240 at https://www.eff.org",
+    "112264 at https://www.eff.org",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+    "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
+    "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
+    "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
+    "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
+    "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+    "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
+    "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-29T20:21:51.331208+00:00"
+  "last_run": "2026-08-30T03:28:24.202492+00:00"
 }
