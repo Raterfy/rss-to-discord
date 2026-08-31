@@ -1,16 +1,5 @@
 {
   "posted": [
-    "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa",
-    "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
-    "https://www.schneier.com/?p=72440",
-    "https://www.schneier.com/?p=72500",
-    "splitting-the-email-atom",
-    "gotta-cache-em-all",
-    "introducing-the-url-validation-bypass-cheat-sheet",
-    "concealing-payloads-in-url-credentials",
-    "new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
-    "bypassing-wafs-with-the-phantom-version-cookie",
-    "top-10-web-hacking-techniques-of-2024-nominations-open",
     "stealing-httponly-cookies-with-the-cookie-sandwich-technique",
     "https://projectdiscovery.io/blog/neo-agent-architecture",
     "69f228998ea60f00019a2f4a",
@@ -499,8 +488,19 @@
     "https://www.intigriti.com/researchers/blog/hacker-spotlight/using-ai-the-smart-way-interview-with-hacker-cristian-zot-cristivlad25",
     "https://www.intigriti.com/blog/business-insights/using-ai-the-smart-way-interview-with-cristian-zot-cristivlad25",
     "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-web-cache-poisoning-vulnerabilities",
-    "https://projectdiscovery.io/blog/neo-vs-diy"
+    "https://projectdiscovery.io/blog/neo-vs-diy",
+    "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+    "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+    "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+    "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+    "https://www.technologyreview.com/?p=1141907",
+    "https://next.ink/?p=253007",
+    "https://next.ink/?p=252990",
+    "https://next.ink/?p=252987",
+    "https://next.ink/?post_type=brief_article&p=253072",
+    "https://next.ink/?p=252930",
+    "https://krebsonsecurity.com/?p=74106"
   ],
   "first_run_done": false,
-  "last_run": "2026-08-30T20:30:13.985765+00:00"
+  "last_run": "2026-08-31T03:31:48.711613+00:00"
 }
