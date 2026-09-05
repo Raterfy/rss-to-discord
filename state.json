@@ -1,13 +1,5 @@
 {
   "posted": [
-    "112207 at https://www.eff.org",
-    "112241 at https://www.eff.org",
-    "112238 at https://www.eff.org",
-    "112243 at https://www.eff.org",
-    "112244 at https://www.eff.org",
-    "112263 at https://www.eff.org",
-    "112267 at https://www.eff.org",
-    "112256 at https://www.eff.org",
     "112303 at https://www.eff.org",
     "112304 at https://www.eff.org",
     "112305 at https://www.eff.org",
@@ -499,8 +491,16 @@
     "gotta-cache-em-all",
     "introducing-the-url-validation-bypass-cheat-sheet",
     "concealing-payloads-in-url-credentials",
-    "new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet"
+    "new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
+    "https://bonjourlafuite.eu.org#🟢 Institut de recherche pour le développement-2026-08-19",
+    "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+    "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+    "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+    "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+    "https://next.ink/?p=254912",
+    "bypassing-wafs-with-the-phantom-version-cookie",
+    "top-10-web-hacking-techniques-of-2024-nominations-open"
   ],
   "first_run_done": false,
-  "last_run": "2026-09-05T09:55:12.848296+00:00"
+  "last_run": "2026-09-05T14:31:24.359230+00:00"
 }
