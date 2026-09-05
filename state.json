@@ -1,16 +1,5 @@
 {
   "posted": [
-    "112303 at https://www.eff.org",
-    "112304 at https://www.eff.org",
-    "112305 at https://www.eff.org",
-    "112312 at https://www.eff.org",
-    "https://www.technologyreview.com/?p=1143180",
-    "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
-    "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
-    "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
-    "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
-    "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
     "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
     "https://next.ink/?p=253705",
     "https://next.ink/?p=253798",
@@ -499,8 +488,19 @@
     "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
     "https://next.ink/?p=254912",
     "bypassing-wafs-with-the-phantom-version-cookie",
-    "top-10-web-hacking-techniques-of-2024-nominations-open"
+    "top-10-web-hacking-techniques-of-2024-nominations-open",
+    "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+    "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+    "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+    "112207 at https://www.eff.org",
+    "112241 at https://www.eff.org",
+    "112238 at https://www.eff.org",
+    "112243 at https://www.eff.org",
+    "112244 at https://www.eff.org",
+    "112263 at https://www.eff.org",
+    "112267 at https://www.eff.org",
+    "112256 at https://www.eff.org"
   ],
   "first_run_done": false,
-  "last_run": "2026-09-05T14:31:24.359230+00:00"
+  "last_run": "2026-09-05T19:54:00.154040+00:00"
 }
