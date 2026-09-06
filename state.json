@@ -1,8 +1,5 @@
 {
   "posted": [
-    "6a2b934b05367d0001863f89",
-    "6a4418a8af74350001707638",
-    "https://projectzero.google/2026/05/pixel-10",
     "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
     "112212 at https://www.eff.org",
     "112201 at https://www.eff.org",
@@ -499,8 +496,11 @@
     "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
     "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
     "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks",
-    "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts"
+    "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
+    "stealing-httponly-cookies-with-the-cookie-sandwich-technique",
+    "https://projectdiscovery.io/blog/neo-agent-architecture",
+    "69f228998ea60f00019a2f4a"
   ],
   "first_run_done": false,
-  "last_run": "2026-09-06T14:53:11.246965+00:00"
+  "last_run": "2026-09-06T19:57:39.451748+00:00"
 }
