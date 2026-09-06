@@ -1,8 +1,5 @@
 {
   "posted": [
-    "stealing-httponly-cookies-with-the-cookie-sandwich-technique",
-    "https://projectdiscovery.io/blog/neo-agent-architecture",
-    "69f228998ea60f00019a2f4a",
     "6a2b934b05367d0001863f89",
     "6a4418a8af74350001707638",
     "https://projectzero.google/2026/05/pixel-10",
@@ -499,8 +496,11 @@
     "https://www.technologyreview.com/?p=1143180",
     "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
     "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-    "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control"
+    "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
+    "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+    "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks",
+    "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts"
   ],
   "first_run_done": false,
-  "last_run": "2026-09-06T10:13:00.826328+00:00"
+  "last_run": "2026-09-06T14:53:11.246965+00:00"
 }
