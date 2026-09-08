@@ -1,10 +1,5 @@
 {
   "posted": [
-    "inline-style-exfiltration",
-    "https://www.intigriti.com/blog/news/intigriti-named-new-provider-for-adobes-bug-bounty-program",
-    "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-    "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
-    "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
     "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
     "112218 at https://www.eff.org",
     "112222 at https://www.eff.org",
@@ -499,8 +494,13 @@
     "repeater-strike-manual-testing-amplified",
     "http1-must-die",
     "https://www.intigriti.com/blog/news/reconnaissance-unleashed-meet-crowdrecon",
-    "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium"
+    "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium",
+    "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+    "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+    "https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind",
+    "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
+    "how-to-distinguish-http-pipelining-from-request-smuggling"
   ],
   "first_run_done": false,
-  "last_run": "2026-09-07T21:04:25.452520+00:00"
+  "last_run": "2026-09-08T02:56:32.480665+00:00"
 }
