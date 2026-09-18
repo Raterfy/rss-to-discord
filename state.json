@@ -1,15 +1,5 @@
 {
   "posted": [
-    "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
-    "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
-    "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
-    "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-insecure-cookie-policies",
-    "https://www.intigriti.com/blog/business-insights/reconnaissance-for-exposure-management-why-context-matters-in-the-ai-era",
-    "https://www.intigriti.com/blog/business-insights/impact-of-the-lethal-trifecta-on-organizations-today",
-    "https://projectdiscovery.io/blog/a-9-5m-install-vs-code-extension-one-markdown-file-and-a-supply-chain-foothold",
-    "69c96d7120fa5600011991fc",
-    "6a28b355867aa700015a7117",
-    "6a4692c98a5c170001328b86",
     "https://projectzero.google/2026/02/windows-administrator-protection",
     "https://projectzero.google/2026/03/mutational-grammar-fuzzing",
     "https://bonjourlafuite.eu.org#🟢 Ultra Premium Direct-2026-08-24",
@@ -499,8 +489,18 @@
     "https://projectdiscovery.io/blog/oh-my-rogue-agent",
     "https://projectzero.google/2026/01/0-click-android-part1",
     "https://projectzero.google/2026/01/0-click-android-part2",
-    "https://projectzero.google/2026/01/0-click-android-part3"
+    "https://projectzero.google/2026/01/0-click-android-part3",
+    "112255 at https://www.eff.org",
+    "112330 at https://www.eff.org",
+    "112374 at https://www.eff.org",
+    "https://www.technologyreview.com/?p=1141649",
+    "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+    "https://krebsonsecurity.com/?p=74047",
+    "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
+    "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
+    "https://projectzero.google/2026/26/windows-administrator-protection",
+    "https://projectzero.google/2026/01/sound-barrier-2"
   ],
   "first_run_done": false,
-  "last_run": "2026-09-17T20:55:35.118499+00:00"
+  "last_run": "2026-09-18T03:04:07.265247+00:00"
 }
