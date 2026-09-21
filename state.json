@@ -1,16 +1,5 @@
 {
   "posted": [
-    "https://next.ink/?post_type=brief_article&p=256129",
-    "https://next.ink/?p=256164",
-    "https://next.ink/?post_type=brief_article&p=256160",
-    "https://next.ink/?post_type=brief_article&p=256200",
-    "https://next.ink/?p=256206",
-    "https://www.schneier.com/?p=72629",
-    "https://korben.info/asahi-linux-support-m3-mac.html",
-    "https://korben.info/test-antro-avis.html",
-    "https://korben.info/test-thermal-master-p3-voir-ce-qui-chauffe-avec-son-smartphone.html",
-    "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-    "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
     "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
     "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
     "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
@@ -499,8 +488,19 @@
     "6a2b934b05367d0001863f89",
     "6a4418a8af74350001707638",
     "https://projectzero.google/2026/05/pixel-10",
-    "https://korben.info/tomb-raider-peut-tourner-sur-un-esp32-p4.html"
+    "https://korben.info/tomb-raider-peut-tourner-sur-un-esp32-p4.html",
+    "https://korben.info/freebe-facturation-electronique-independants.html",
+    "https://korben.info/chatgpt-ad-collector-tracking.html",
+    "https://korben.info/bonjourr-extension-page-accueil-navigateur.html",
+    "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+    "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+    "https://next.ink/?p=257030",
+    "https://next.ink/?p=257040",
+    "https://next.ink/?p=257036",
+    "https://next.ink/?p=257011",
+    "https://next.ink/?p=257052"
   ],
   "first_run_done": false,
-  "last_run": "2026-09-21T03:11:34.244302+00:00"
+  "last_run": "2026-09-21T11:55:54.234790+00:00"
 }
