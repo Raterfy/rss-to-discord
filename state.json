@@ -1,21 +1,5 @@
 {
   "posted": [
-    "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "bypassing-character-blocklists-with-unicode-overflows",
-    "top-10-web-hacking-techniques-of-2024",
-    "shadow-repeater-ai-enhanced-manual-testing",
-    "saml-roulette-the-hacker-always-wins",
-    "document-my-pentest",
-    "drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
-    "repeater-strike-manual-testing-amplified",
-    "http1-must-die",
-    "how-to-distinguish-http-pipelining-from-request-smuggling",
-    "https://www.intigriti.com/blog/news/reconnaissance-unleashed-meet-crowdrecon",
-    "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium",
-    "https://bonjourlafuite.eu.org#🟢 Tisseo-2026-09-04",
-    "https://korben.info/grapheneos-messaging-rcs-secure-paste.html",
-    "https://korben.info/rssmonster-lecteur-rss-auto-heberge.html",
-    "https://korben.info/spruceos-guide-installation-console-retro.html",
     "https://korben.info/gnome-boxes-virtualisation-simple-linux.html",
     "https://korben.info/deco-be25-5g-test.html",
     "https://korben.info/kits-ia-korben-tutos-agents-ia.html",
@@ -499,8 +483,24 @@
     "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
     "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
     "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
-    "https://www.schneier.com/?p=72633"
+    "https://www.schneier.com/?p=72633",
+    "https://bonjourlafuite.eu.org#🟢 Bouteilles et bocaux-2026-09-14",
+    "https://bonjourlafuite.eu.org#🟢 Nature et découvertes-2026-09-14",
+    "https://bonjourlafuite.eu.org#🟢 Académie de Créteil-2026-09-21",
+    "112247 at https://www.eff.org",
+    "112313 at https://www.eff.org",
+    "112381 at https://www.eff.org",
+    "https://www.technologyreview.com/?p=1144048",
+    "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
+    "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
+    "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
+    "https://www.schneier.com/?p=72636",
+    "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
+    "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "whats-in-a-tag-name-javascript-apparently",
+    "https://www.intigriti.com/blog/business-insights/why-security-teams-miss-what-attackers-see",
+    "https://projectdiscovery.io/blog/watching-agents-work-a-behavioral-audit-of-offensive-security-llm-runs"
   ],
   "first_run_done": false,
-  "last_run": "2026-09-21T21:41:21.452689+00:00"
+  "last_run": "2026-09-22T03:10:58.439516+00:00"
 }
