@@ -1,15 +1,5 @@
 {
   "posted": [
-    "https://www.technologyreview.com/?p=1144037",
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-    "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-    "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-    "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-    "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
-    "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
-    "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
-    "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
-    "https://www.schneier.com/?p=72633",
     "https://bonjourlafuite.eu.org#🟢 Bouteilles et bocaux-2026-09-14",
     "https://bonjourlafuite.eu.org#🟢 Nature et découvertes-2026-09-14",
     "https://bonjourlafuite.eu.org#🟢 Académie de Créteil-2026-09-21",
@@ -499,8 +489,18 @@
     "https://www.technologyreview.com/?p=1144161",
     "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
     "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-    "https://next.ink/?p=258484"
+    "https://next.ink/?p=258484",
+    "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+    "112245 at https://www.eff.org",
+    "112360 at https://www.eff.org",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+    "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+    "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
+    "https://www.schneier.com/?p=72660",
+    "https://www.intigriti.com/blog/business-insights/how-ai-changed-my-day-as-a-qa-engineer",
+    "https://projectzero.google/2026/09/windows-dangling-com"
   ],
   "first_run_done": false,
-  "last_run": "2026-09-26T15:42:57.214507+00:00"
+  "last_run": "2026-09-26T20:37:02.241713+00:00"
 }
