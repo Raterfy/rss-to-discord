@@ -1,7 +1,5 @@
 {
   "posted": [
-    "112313 at https://www.eff.org",
-    "112381 at https://www.eff.org",
     "https://www.technologyreview.com/?p=1144048",
     "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
     "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
@@ -499,8 +497,10 @@
     "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
     "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
     "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
-    "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims"
+    "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
+    "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+    "112247 at https://www.eff.org"
   ],
   "first_run_done": false,
-  "last_run": "2026-09-27T03:33:42.070299+00:00"
+  "last_run": "2026-09-27T11:20:37.092358+00:00"
 }
