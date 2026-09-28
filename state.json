@@ -1,10 +1,5 @@
 {
   "posted": [
-    "https://projectdiscovery.io/blog/watching-agents-work-a-behavioral-audit-of-offensive-security-llm-runs",
-    "https://korben.info/spruceos-guide-installation-console-retro.html",
-    "https://korben.info/10-projets-decomp-recomp-a-suivre.html",
-    "https://korben.info/cliamp-lecteur-musique-terminal-winamp.html",
-    "https://korben.info/windows-update-casse-file-history.html",
     "https://korben.info/mighty-resurrection-serveur-prive-mighty-doom.html",
     "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
     "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
@@ -499,8 +494,13 @@
     "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
     "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
     "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
-    "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success"
+    "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+    "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
+    "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "whats-in-a-tag-name-javascript-apparently",
+    "https://www.intigriti.com/blog/business-insights/why-security-teams-miss-what-attackers-see"
   ],
   "first_run_done": false,
-  "last_run": "2026-09-27T20:49:45.944291+00:00"
+  "last_run": "2026-09-28T03:29:30.966865+00:00"
 }
