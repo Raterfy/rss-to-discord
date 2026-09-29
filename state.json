@@ -1,15 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-    "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-    "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-    "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-    "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-    "112260 at https://www.eff.org",
-    "112269 at https://www.eff.org",
-    "112283 at https://www.eff.org",
-    "112285 at https://www.eff.org",
-    "112282 at https://www.eff.org",
     "112332 at https://www.eff.org",
     "112335 at https://www.eff.org",
     "112359 at https://www.eff.org",
@@ -499,8 +489,18 @@
     "drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
     "repeater-strike-manual-testing-amplified",
     "http1-must-die",
-    "how-to-distinguish-http-pipelining-from-request-smuggling"
+    "how-to-distinguish-http-pipelining-from-request-smuggling",
+    "https://korben.info/curl-md-site-en-markdown.html",
+    "https://www.technologyreview.com/?p=1144867",
+    "https://www.technologyreview.com/?p=1144890",
+    "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
+    "https://www.schneier.com/?p=72666",
+    "inline-style-exfiltration",
+    "https://www.intigriti.com/blog/news/intigriti-named-new-provider-for-adobes-bug-bounty-program",
+    "https://www.intigriti.com/blog/news/reconnaissance-unleashed-meet-crowdrecon",
+    "https://www.intigriti.com/blog/business-insights/how-ai-has-changed-the-way-i-think-build-and-work",
+    "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium"
   ],
   "first_run_done": false,
-  "last_run": "2026-09-28T22:55:24.312393+00:00"
+  "last_run": "2026-09-29T04:05:07.353145+00:00"
 }
