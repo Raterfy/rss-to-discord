@@ -1,19 +1,5 @@
 {
   "posted": [
-    "https://www.schneier.com/?p=72660",
-    "https://www.intigriti.com/blog/business-insights/how-ai-changed-my-day-as-a-qa-engineer",
-    "https://projectzero.google/2026/09/windows-dangling-com",
-    "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
-    "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
-    "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
-    "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
-    "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-    "112247 at https://www.eff.org",
-    "112313 at https://www.eff.org",
-    "112381 at https://www.eff.org",
-    "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-    "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-    "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
     "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
     "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
     "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
@@ -499,8 +485,22 @@
     "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-238-july-2026",
     "https://www.intigriti.com/researchers/blog/hacker-spotlight/interview-with-ryan-bonner-aka-roll4combatus",
     "https://www.intigriti.com/blog/business-insights/interview-with-ryan-bonner-roll4combatus",
-    "6a42bf6d3e3ea80001f3c8b4"
+    "6a42bf6d3e3ea80001f3c8b4",
+    "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+    "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+    "112360 at https://www.eff.org",
+    "112379 at https://www.eff.org",
+    "bypassing-wafs-with-the-phantom-version-cookie",
+    "top-10-web-hacking-techniques-of-2024-nominations-open",
+    "stealing-httponly-cookies-with-the-cookie-sandwich-technique",
+    "https://projectdiscovery.io/blog/neo-vs-diy",
+    "https://projectdiscovery.io/blog/nuclei-templates-april-2026",
+    "https://projectdiscovery.io/blog/neo-agent-architecture",
+    "69f228998ea60f00019a2f4a",
+    "6a2b934b05367d0001863f89",
+    "6a4418a8af74350001707638",
+    "https://projectzero.google/2026/05/pixel-10"
   ],
   "first_run_done": false,
-  "last_run": "2026-10-02T21:47:41.781525+00:00"
+  "last_run": "2026-10-03T03:41:19.228393+00:00"
 }
