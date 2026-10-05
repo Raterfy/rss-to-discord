@@ -1,6 +1,5 @@
 {
   "posted": [
-    "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
     "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
     "https://next.ink/?p=258708",
     "https://next.ink/?p=258678",
@@ -499,8 +498,9 @@
     "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
     "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
     "112403 at https://www.eff.org",
-    "https://www.technologyreview.com/?p=1145230"
+    "https://www.technologyreview.com/?p=1145230",
+    "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/"
   ],
   "first_run_done": false,
-  "last_run": "2026-10-04T20:50:17.238243+00:00"
+  "last_run": "2026-10-05T03:55:19.068050+00:00"
 }
