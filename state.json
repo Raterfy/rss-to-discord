@@ -1,16 +1,5 @@
 {
   "posted": [
-    "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-    "https://next.ink/?p=260011",
-    "https://next.ink/?p=259986",
-    "https://next.ink/?post_type=brief_article&p=260023",
-    "https://next.ink/?p=259759",
-    "https://next.ink/?post_type=brief_article&p=260050",
-    "https://next.ink/?p=259982",
-    "https://next.ink/?post_type=brief_article&p=260049",
-    "https://next.ink/?p=260022",
-    "https://krebsonsecurity.com/?p=74231",
-    "https://krebsonsecurity.com/?p=74277",
     "https://www.schneier.com/?p=72739",
     "bonjour-la-fuite:MGEL-2026-10-06",
     "bonjour-la-fuite:Maileva-2026-10-06",
@@ -499,8 +488,19 @@
     "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
     "https://www.intigriti.com/blog/business-insights/how-ai-has-changed-the-way-i-think-build-and-work",
     "https://www.intigriti.com/blog/news/10-years-of-intigriti",
-    "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium"
+    "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium",
+    "bonjour-la-fuite:École 42-2026-10-10",
+    "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+    "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+    "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+    "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+    "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+    "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+    "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+    "112359 at https://www.eff.org",
+    "112382 at https://www.eff.org",
+    "112405 at https://www.eff.org"
   ],
   "first_run_done": false,
-  "last_run": "2026-10-10T16:55:05.927924+00:00"
+  "last_run": "2026-10-10T21:07:05.363489+00:00"
 }
