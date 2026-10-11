@@ -1,11 +1,5 @@
 {
   "posted": [
-    "112348 at https://www.eff.org",
-    "112365 at https://www.eff.org",
-    "112363 at https://www.eff.org",
-    "112366 at https://www.eff.org",
-    "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-    "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
     "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
     "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
     "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
@@ -499,8 +493,14 @@
     "https://next.ink/?p=260022",
     "https://next.ink/?post_type=brief_article&p=260050",
     "https://krebsonsecurity.com/?p=74231",
-    "https://krebsonsecurity.com/?p=74277"
+    "https://krebsonsecurity.com/?p=74277",
+    "https://korben.info/vieux-windows-mac-os-9-navigateur-wieslaw-soltes.html",
+    "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+    "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+    "112336 at https://www.eff.org",
+    "112346 at https://www.eff.org",
+    "https://www.schneier.com/?p=72739"
   ],
   "first_run_done": false,
-  "last_run": "2026-10-11T03:50:01.571913+00:00"
+  "last_run": "2026-10-11T12:03:21.753851+00:00"
 }
