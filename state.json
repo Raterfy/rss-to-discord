@@ -1,18 +1,5 @@
 {
   "posted": [
-    "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-    "https://next.ink/?post_type=brief_article&p=257674",
-    "https://korben.info/windows-11-lien-learn-more-corrige.html",
-    "https://korben.info/carafe-jeux-windows-switch.html",
-    "https://korben.info/slot-frontend-game-boy-rg-sp.html",
-    "https://korben.info/onlyoffice-10-ia-applications.html",
-    "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-    "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-    "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-    "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-    "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
-    "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
     "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
     "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
     "https://next.ink/?post_type=brief_article&p=260967",
@@ -499,8 +486,21 @@
     "https://www.intigriti.com/blog/news/reconnaissance-unleashed-meet-crowdrecon",
     "https://www.intigriti.com/blog/business-insights/how-ai-has-changed-the-way-i-think-build-and-work",
     "https://www.intigriti.com/blog/news/10-years-of-intigriti",
-    "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium"
+    "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium",
+    "112336 at https://www.eff.org",
+    "112346 at https://www.eff.org",
+    "112359 at https://www.eff.org",
+    "112348 at https://www.eff.org",
+    "112365 at https://www.eff.org",
+    "112363 at https://www.eff.org",
+    "112366 at https://www.eff.org",
+    "112382 at https://www.eff.org",
+    "112405 at https://www.eff.org",
+    "https://krebsonsecurity.com/?p=74231",
+    "https://krebsonsecurity.com/?p=74277",
+    "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+    "https://www.schneier.com/?p=72715"
   ],
   "first_run_done": false,
-  "last_run": "2026-10-16T20:28:15.309089+00:00"
+  "last_run": "2026-10-17T02:52:59.163765+00:00"
 }
