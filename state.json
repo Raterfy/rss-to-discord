@@ -1,7 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-    "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
     "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
     "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
     "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
@@ -499,8 +497,10 @@
     "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
     "https://next.ink/?p=262471",
     "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-    "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief"
+    "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
+    "https://korben.info/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable.html",
+    "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html"
   ],
   "first_run_done": false,
-  "last_run": "2026-10-18T02:54:49.635542+00:00"
+  "last_run": "2026-10-18T10:20:20.145504+00:00"
 }
