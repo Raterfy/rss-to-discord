@@ -1,8 +1,5 @@
 {
   "posted": [
-    "https://next.ink/?p=262413",
-    "https://www.schneier.com/?p=72792",
-    "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
     "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
     "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
     "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
@@ -499,8 +496,11 @@
     "https://korben.info/korben-remote-desktop.html",
     "https://www.technologyreview.com/?p=1147095",
     "bonjour-la-fuite:Alliance Police Nationale-2026-10-24",
-    "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+    "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+    "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+    "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+    "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/"
   ],
   "first_run_done": false,
-  "last_run": "2026-10-25T15:30:15.354527+00:00"
+  "last_run": "2026-10-25T20:20:46.641917+00:00"
 }
