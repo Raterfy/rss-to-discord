@@ -1,19 +1,5 @@
 {
   "posted": [
-    "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-    "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-    "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-    "112452 at https://www.eff.org",
-    "112449 at https://www.eff.org",
-    "https://www.technologyreview.com/?p=1147149",
-    "https://www.technologyreview.com/?p=1147186",
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-    "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-    "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
-    "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-    "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-    "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
     "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
     "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
     "https://next.ink/?p=262503",
@@ -499,8 +485,22 @@
     "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
     "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
     "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-    "https://www.schneier.com/?p=72792"
+    "https://www.schneier.com/?p=72792",
+    "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+    "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+    "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+    "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+    "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+    "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+    "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+    "https://next.ink/?post_type=brief_article&p=263645",
+    "https://next.ink/?p=263683",
+    "https://next.ink/?post_type=brief_article&p=263692",
+    "https://next.ink/?p=263681",
+    "https://next.ink/?p=263710",
+    "https://next.ink/?p=263704",
+    "https://www.schneier.com/?p=72840"
   ],
   "first_run_done": false,
-  "last_run": "2026-10-26T03:04:23.583578+00:00"
+  "last_run": "2026-10-26T12:12:55.677370+00:00"
 }
