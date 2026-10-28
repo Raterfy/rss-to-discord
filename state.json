@@ -1,14 +1,5 @@
 {
   "posted": [
-    "cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
-    "websocket-turbo-intruder-unearthing-the-websocket-goldmine",
-    "introducing-http-anomaly-rank",
-    "the-fragile-lock",
-    "top-10-web-hacking-techniques-of-2025-nominations-open",
-    "top-10-web-hacking-techniques-of-2025",
-    "can-ai-do-novel-security-research",
-    "crlf-powered-desync-attacks",
-    "https://korben.info/xboxrecomp-recompilation-statique-xbox.html",
     "https://korben.info/petit-prince-jeu-3d-ia.html",
     "https://korben.info/ported2browser.html",
     "https://korben.info/rea-reverse-engineering-agent-ia-test.html",
@@ -499,8 +490,17 @@
     "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
     "https://www.schneier.com/?p=72809",
     "https://projectzero.google/2026/09/maccconc-race-condition",
-    "https://projectzero.google/2026/10/emergency-patching"
+    "https://projectzero.google/2026/10/emergency-patching",
+    "112411 at https://www.eff.org",
+    "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+    "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+    "https://krebsonsecurity.com/?p=74398",
+    "https://krebsonsecurity.com/?p=74474",
+    "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+    "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
+    "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/"
   ],
   "first_run_done": false,
-  "last_run": "2026-10-27T21:47:28.523140+00:00"
+  "last_run": "2026-10-28T03:52:28.297444+00:00"
 }
