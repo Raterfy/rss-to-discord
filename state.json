@@ -1,16 +1,5 @@
 {
   "posted": [
-    "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-    "concealing-payloads-in-url-credentials",
-    "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-240-september-2026",
-    "bonjour-la-fuite:Vélo Grimpe-2026-10-16",
-    "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-    "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-    "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-    "112403 at https://www.eff.org",
-    "112433 at https://www.eff.org",
-    "112470 at https://www.eff.org",
-    "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
     "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
     "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
     "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
@@ -499,8 +488,19 @@
     "gotta-cache-em-all",
     "introducing-the-url-validation-bypass-cheat-sheet",
     "https://www.intigriti.com/blog/news/php2shell",
-    "https://projectzero.google/2026/03/mutational-grammar-fuzzing"
+    "https://projectzero.google/2026/03/mutational-grammar-fuzzing",
+    "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+    "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+    "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+    "112435 at https://www.eff.org",
+    "112451 at https://www.eff.org",
+    "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
+    "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
+    "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
+    "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
+    "https://www.schneier.com/?p=72835",
+    "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/"
   ],
   "first_run_done": false,
-  "last_run": "2026-10-31T03:56:30.680342+00:00"
+  "last_run": "2026-10-31T11:38:50.049843+00:00"
 }
