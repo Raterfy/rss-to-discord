@@ -1,15 +1,5 @@
 {
   "posted": [
-    "https://www.intigriti.com/blog/business-insights/interview-with-ryan-bonner-roll4combatus",
-    "https://www.intigriti.com/blog/business-insights/how-ai-changed-my-day-as-a-qa-engineer",
-    "https://projectdiscovery.io/blog/neo-vs-diy",
-    "https://projectdiscovery.io/blog/nuclei-templates-april-2026",
-    "https://projectdiscovery.io/blog/neo-agent-architecture",
-    "69f228998ea60f00019a2f4a",
-    "6a2b934b05367d0001863f89",
-    "6a42bf6d3e3ea80001f3c8b4",
-    "6a4418a8af74350001707638",
-    "6ac86bf724ecd40001ba63e1",
     "https://projectzero.google/2026/05/pixel-10",
     "https://projectzero.google/2026/09/windows-dangling-com",
     "bonjour-la-fuite:Engie-2026-10-23",
@@ -499,8 +489,18 @@
     "https://next.ink/?p=265059",
     "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
     "concealing-payloads-in-url-credentials",
-    "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-240-september-2026"
+    "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-240-september-2026",
+    "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+    "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
+    "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+    "new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
+    "bypassing-wafs-with-the-phantom-version-cookie",
+    "top-10-web-hacking-techniques-of-2024-nominations-open",
+    "stealing-httponly-cookies-with-the-cookie-sandwich-technique",
+    "whats-in-a-tag-name-javascript-apparently",
+    "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-238-july-2026",
+    "https://www.intigriti.com/researchers/blog/hacker-spotlight/interview-with-ryan-bonner-aka-roll4combatus"
   ],
   "first_run_done": false,
-  "last_run": "2026-10-31T16:46:26.770394+00:00"
+  "last_run": "2026-10-31T20:56:46.368169+00:00"
 }
