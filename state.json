@@ -1,17 +1,5 @@
 {
   "posted": [
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-    "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-    "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
-    "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
-    "new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
-    "bypassing-wafs-with-the-phantom-version-cookie",
-    "top-10-web-hacking-techniques-of-2024-nominations-open",
-    "stealing-httponly-cookies-with-the-cookie-sandwich-technique",
-    "whats-in-a-tag-name-javascript-apparently",
-    "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-238-july-2026",
-    "https://www.intigriti.com/researchers/blog/hacker-spotlight/interview-with-ryan-bonner-aka-roll4combatus",
     "https://www.intigriti.com/blog/business-insights/interview-with-ryan-bonner-roll4combatus",
     "https://www.intigriti.com/blog/business-insights/how-ai-changed-my-day-as-a-qa-engineer",
     "https://projectdiscovery.io/blog/neo-vs-diy",
@@ -499,8 +487,20 @@
     "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
     "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
     "https://www.schneier.com/?p=72835",
-    "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/"
+    "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
+    "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+    "112403 at https://www.eff.org",
+    "112433 at https://www.eff.org",
+    "112470 at https://www.eff.org",
+    "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+    "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+    "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+    "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+    "https://next.ink/?p=265059",
+    "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "concealing-payloads-in-url-credentials",
+    "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-240-september-2026"
   ],
   "first_run_done": false,
-  "last_run": "2026-10-31T11:38:50.049843+00:00"
+  "last_run": "2026-10-31T16:46:26.770394+00:00"
 }
