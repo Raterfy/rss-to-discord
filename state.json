@@ -1,16 +1,5 @@
 {
   "posted": [
-    "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
-    "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
-    "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
-    "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
-    "https://www.schneier.com/?p=72789",
-    "https://www.schneier.com/?p=72718",
-    "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "bypassing-character-blocklists-with-unicode-overflows",
-    "top-10-web-hacking-techniques-of-2024",
-    "shadow-repeater-ai-enhanced-manual-testing",
-    "saml-roulette-the-hacker-always-wins",
     "https://projectdiscovery.io/blog/watching-agents-work-a-behavioral-audit-of-offensive-security-llm-runs",
     "6aba3d3b2e399c0001db9902",
     "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
@@ -499,8 +488,19 @@
     "6a2b934b05367d0001863f89",
     "6a42bf6d3e3ea80001f3c8b4",
     "6a4418a8af74350001707638",
-    "6ac86bf724ecd40001ba63e1"
+    "6ac86bf724ecd40001ba63e1",
+    "bonjour-la-fuite:Engie-2026-10-23",
+    "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+    "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+    "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+    "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+    "112475 at https://www.eff.org",
+    "112476 at https://www.eff.org",
+    "https://krebsonsecurity.com/?p=74341",
+    "https://krebsonsecurity.com/?p=74440",
+    "https://projectzero.google/2026/05/pixel-10",
+    "https://projectzero.google/2026/09/windows-dangling-com"
   ],
   "first_run_done": false,
-  "last_run": "2026-11-01T04:12:23.272053+00:00"
+  "last_run": "2026-11-01T12:38:01.548488+00:00"
 }
