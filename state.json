@@ -1,15 +1,5 @@
 {
   "posted": [
-    "https://projectdiscovery.io/blog/watching-agents-work-a-behavioral-audit-of-offensive-security-llm-runs",
-    "6aba3d3b2e399c0001db9902",
-    "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-    "112363 at https://www.eff.org",
-    "112366 at https://www.eff.org",
-    "112382 at https://www.eff.org",
-    "112405 at https://www.eff.org",
-    "document-my-pentest",
-    "drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
-    "repeater-strike-manual-testing-amplified",
     "http1-must-die",
     "how-to-distinguish-http-pipelining-from-request-smuggling",
     "inline-style-exfiltration",
@@ -499,8 +489,18 @@
     "https://krebsonsecurity.com/?p=74341",
     "https://krebsonsecurity.com/?p=74440",
     "https://projectzero.google/2026/05/pixel-10",
-    "https://projectzero.google/2026/09/windows-dangling-com"
+    "https://projectzero.google/2026/09/windows-dangling-com",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+    "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+    "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+    "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+    "https://www.schneier.com/?p=72718",
+    "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "bypassing-character-blocklists-with-unicode-overflows",
+    "top-10-web-hacking-techniques-of-2024",
+    "shadow-repeater-ai-enhanced-manual-testing",
+    "saml-roulette-the-hacker-always-wins"
   ],
   "first_run_done": false,
-  "last_run": "2026-11-01T12:38:01.548488+00:00"
+  "last_run": "2026-11-01T21:39:33.301011+00:00"
 }
