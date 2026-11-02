@@ -1,12 +1,5 @@
 {
   "posted": [
-    "http1-must-die",
-    "how-to-distinguish-http-pipelining-from-request-smuggling",
-    "inline-style-exfiltration",
-    "smashing-the-token-limit",
-    "https://www.intigriti.com/blog/news/intigriti-named-new-provider-for-adobes-bug-bounty-program",
-    "https://www.intigriti.com/blog/news/reconnaissance-unleashed-meet-crowdrecon",
-    "https://www.intigriti.com/blog/business-insights/how-ai-has-changed-the-way-i-think-build-and-work",
     "https://www.intigriti.com/blog/news/10-years-of-intigriti",
     "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium",
     "bonjour-la-fuite:Diocèse 92-2026-10-17",
@@ -499,8 +492,15 @@
     "bypassing-character-blocklists-with-unicode-overflows",
     "top-10-web-hacking-techniques-of-2024",
     "shadow-repeater-ai-enhanced-manual-testing",
-    "saml-roulette-the-hacker-always-wins"
+    "saml-roulette-the-hacker-always-wins",
+    "112382 at https://www.eff.org",
+    "112405 at https://www.eff.org",
+    "document-my-pentest",
+    "drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
+    "repeater-strike-manual-testing-amplified",
+    "https://projectdiscovery.io/blog/watching-agents-work-a-behavioral-audit-of-offensive-security-llm-runs",
+    "6aba3d3b2e399c0001db9902"
   ],
   "first_run_done": false,
-  "last_run": "2026-11-01T21:39:33.301011+00:00"
+  "last_run": "2026-11-02T04:15:22.877942+00:00"
 }
