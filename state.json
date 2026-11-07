@@ -1,18 +1,5 @@
 {
   "posted": [
-    "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
-    "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
-    "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-    "https://www.intigriti.com/blog/news/introducing-crowdrecon",
-    "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-239-august-2026",
-    "https://www.intigriti.com/blog/business-insights/what-id-verification-changes-mean-for-public-bug-bounty-programs-at-intigriti",
-    "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-241-october-2026",
-    "https://medium.com/p/fab668917f29",
-    "https://projectzero.google/2026/02/windows-administrator-protection",
-    "bonjour-la-fuite:Tailleur Auto-2026-10-23",
-    "bonjour-la-fuite:Point Vision-2026-10-23",
-    "bonjour-la-fuite:La Compagnie des Sens-2026-10-23",
-    "112434 at https://www.eff.org",
     "112503 at https://www.eff.org",
     "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
     "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
@@ -499,8 +486,21 @@
     "112469 at https://www.eff.org",
     "112500 at https://www.eff.org",
     "https://next.ink/?p=264997",
-    "https://krebsonsecurity.com/?p=74335"
+    "https://krebsonsecurity.com/?p=74335",
+    "bonjour-la-fuite:Smartbox-2026-11-03",
+    "bonjour-la-fuite:Secours Islamique France (SIF)-2026-11-06",
+    "bonjour-la-fuite:Burda Style-2026-11-07",
+    "bonjour-la-fuite:Beauty Success-2026-11-07",
+    "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+    "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+    "https://next.ink/?p=266278",
+    "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
+    "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
+    "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
+    "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
+    "https://www.schneier.com/?p=72874",
+    "https://www.schneier.com/?p=72713"
   ],
   "first_run_done": false,
-  "last_run": "2026-11-07T12:23:52.267630+00:00"
+  "last_run": "2026-11-07T21:24:43.908868+00:00"
 }
