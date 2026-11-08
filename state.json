@@ -1,15 +1,5 @@
 {
   "posted": [
-    "112503 at https://www.eff.org",
-    "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
-    "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-    "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-    "using-form-hijacking-to-bypass-csp",
-    "trace-desync-attack",
-    "introducing-signsaboteur-forge-signed-web-tokens-with-ease",
-    "adjusting-your-http-perspective-with-bambdas",
-    "new-exotic-events-in-the-xss-cheat-sheet",
-    "a-hacking-hat-trick-previewing-three-portswigger-research-publications-coming-to-def-con-amp-black-hat-usa",
     "fickle-pdfs-exploiting-browser-rendering-discrepancies",
     "listen-to-the-whispers-web-timing-attacks-that-actually-work",
     "splitting-the-email-atom",
@@ -499,8 +489,18 @@
     "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
     "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
     "https://www.schneier.com/?p=72874",
-    "https://www.schneier.com/?p=72713"
+    "https://www.schneier.com/?p=72713",
+    "112434 at https://www.eff.org",
+    "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
+    "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+    "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+    "https://www.intigriti.com/blog/news/introducing-crowdrecon",
+    "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-239-august-2026",
+    "https://www.intigriti.com/blog/business-insights/what-id-verification-changes-mean-for-public-bug-bounty-programs-at-intigriti",
+    "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-241-october-2026",
+    "https://medium.com/p/fab668917f29",
+    "https://projectzero.google/2026/02/windows-administrator-protection"
   ],
   "first_run_done": false,
-  "last_run": "2026-11-07T21:24:43.908868+00:00"
+  "last_run": "2026-11-08T04:17:27.050034+00:00"
 }
