@@ -1,14 +1,5 @@
 {
   "posted": [
-    "fickle-pdfs-exploiting-browser-rendering-discrepancies",
-    "listen-to-the-whispers-web-timing-attacks-that-actually-work",
-    "splitting-the-email-atom",
-    "gotta-cache-em-all",
-    "introducing-the-url-validation-bypass-cheat-sheet",
-    "https://www.intigriti.com/blog/news/php2shell",
-    "https://projectzero.google/2026/03/mutational-grammar-fuzzing",
-    "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-    "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
     "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
     "112435 at https://www.eff.org",
     "112451 at https://www.eff.org",
@@ -499,8 +490,17 @@
     "https://www.intigriti.com/blog/business-insights/what-id-verification-changes-mean-for-public-bug-bounty-programs-at-intigriti",
     "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-241-october-2026",
     "https://medium.com/p/fab668917f29",
-    "https://projectzero.google/2026/02/windows-administrator-protection"
+    "https://projectzero.google/2026/02/windows-administrator-protection",
+    "bonjour-la-fuite:Gnosis Pay-2026-11-03",
+    "112503 at https://www.eff.org",
+    "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
+    "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "trace-desync-attack",
+    "introducing-signsaboteur-forge-signed-web-tokens-with-ease",
+    "adjusting-your-http-perspective-with-bambdas",
+    "new-exotic-events-in-the-xss-cheat-sheet",
+    "a-hacking-hat-trick-previewing-three-portswigger-research-publications-coming-to-def-con-amp-black-hat-usa"
   ],
   "first_run_done": false,
-  "last_run": "2026-11-08T04:17:27.050034+00:00"
+  "last_run": "2026-11-08T12:42:20.854838+00:00"
 }
