@@ -1,20 +1,5 @@
 {
   "posted": [
-    "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-    "https://projectzero.google/2026/01/sound-barrier-2",
-    "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-    "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-    "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-    "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-    "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-    "https://www.technologyreview.com/?p=1146070",
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
-    "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-    "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-    "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-    "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-    "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-    "https://next.ink/?p=267710",
     "https://next.ink/?p=267644",
     "https://next.ink/?p=267691",
     "https://next.ink/?p=267741",
@@ -499,8 +484,23 @@
     "https://projectdiscovery.io/blog/red-teaming-cloud-infrastructure-with-neo",
     "https://projectdiscovery.io/blog/continuous-pr-security-review",
     "https://projectdiscovery.io/blog/oh-my-rogue-agent",
-    "https://projectdiscovery.io/blog/a-9-5m-install-vs-code-extension-one-markdown-file-and-a-supply-chain-foothold"
+    "https://projectdiscovery.io/blog/a-9-5m-install-vs-code-extension-one-markdown-file-and-a-supply-chain-foothold",
+    "https://korben.info/vectors-jeu-controle-aerien-navigateur.html",
+    "https://korben.info/openai-lance-daybreak-des-agents-ia-qui-piratent-vos-applis-pour-les-securiser.html",
+    "112469 at https://www.eff.org",
+    "112500 at https://www.eff.org",
+    "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+    "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+    "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+    "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+    "https://arstechnica.com/gadgets/2026/01/researchers-reveal-whisperpair-attack-to-eavesdrop-on-google-fast-pair-headphones/",
+    "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/",
+    "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+    "https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/",
+    "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+    "6a28b355867aa700015a7117",
+    "6a4692c98a5c170001328b86"
   ],
   "first_run_done": false,
-  "last_run": "2026-11-22T13:59:48.822993+00:00"
+  "last_run": "2026-11-22T23:11:16.578688+00:00"
 }
